@@ -1,7 +1,5 @@
 ---
 title: My Second Post!
-date: 2018-10-23 05:06:15
-description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.'
 image: 'https://i.imgur.com/qeKTrnD.jpg'
 slug: second
 ---

@@ -1,29 +1,24 @@
 <template>
   <Layout class="home">
-    <ul>
-      <li v-for="{ node } in $page.allShowPost.edges" :key="node._id">
-        <router-link :to="node.path">
-          <h2 v-html="node.title"/>
-        </router-link>
-        <span v-html="node.date"/>
-        <div v-html="node.fields.description"/>
-      </li>
-    </ul>
+    <g-link to="test">Test</g-link>
+      <div v-for="{ node } in $page.allShow.edges" :key="node._id">
+        <g-link :to="node.path">
+          <h2>{{ node.title }}</h2>
+        </g-link>
+        <div v-html="node.content.slice(0,100)" />
+      </div>
   </Layout>
 </template>
 
 <page-query>
   query Home ($page: Int) {
-    allShowPost (page: $page) {
+    allShow (page: $page) {
       edges {
         node {
           _id
           title
-          date (format: "D MMMM, YYYY")
-          fields {
-            description
-          }
           path
+          content
         }
       }
     }
