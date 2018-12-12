@@ -18,7 +18,7 @@
 </template>
 
 <style>
-  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
   body {
     font-family: Montserrat, sans-serif;
     margin: 2rem;
@@ -32,6 +32,10 @@
     line-height: 1.2em;
     text-transform: uppercase;
     font-weight: 500;
+  }
+  h1 {
+    font-size: 1.5em;
+    font-weight: 700;
   }
   a {
     text-decoration: none;

@@ -20,9 +20,10 @@ export default {
 <style>
 .VLinks a {
   padding-bottom: 3px;
+  color: #888;
 }
 .VLinks a.active {
-  border-bottom: 2px solid #ccc;
+  color: #333;
 }
 </style>
 

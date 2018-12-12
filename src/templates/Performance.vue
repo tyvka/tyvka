@@ -2,7 +2,7 @@
   <PageLayout>
     <ContentLayout>
       <div slot="first">
-        <h1>Etendused</h1>
+        <h1>Lavastused</h1>
         <h2>{{ $page.performance.title }}</h2>
         <div
           class="content"

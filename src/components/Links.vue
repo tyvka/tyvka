@@ -2,7 +2,7 @@
   <div>
     <slot :items="[
       {
-        title: 'Etendused',
+        title: 'Lavastused',
         path: $static.allPerformance.edges[0].node.path,
         img: '/images/front/front1.png'
       },
