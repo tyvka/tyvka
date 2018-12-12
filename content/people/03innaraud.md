@@ -1,8 +1,7 @@
 ---
 title: Inna Raud
 slug: innaraud
-image1: ""
-image2: ""
+image1: "/images/people/innaraud1.jpg"
 ---
 
 Inna Raud on lõpetanud TÜ Viljandi Kultuuriakadeemias nii rahvusliku tekstiili eriala kui ka pärandtehnoloogia magistri. Tänaseks on ta spetsialiseerunud peamiselt rahvarõivaste valdkonnale ja tegutseb nõustaja ning õpetajana.

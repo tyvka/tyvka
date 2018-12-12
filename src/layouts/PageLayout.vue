@@ -1,11 +1,6 @@
 <template>
   <div>
-    <header style="
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 2rem;
-    ">
+    <header>
       <a href="/"><img src="/assets/vka_logo.png" /></a>
       <a href="/"><img src="/assets/vka_triskele.png" /></a>
       <HLinks />
@@ -21,7 +16,7 @@
   @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
   body {
     font-family: Montserrat, sans-serif;
-    margin: 2rem;
+    margin: 0;
     color: #444;
     line-height: 1.5em;
     font-weight: 300;
@@ -40,6 +35,12 @@
   a {
     text-decoration: none;
     color: #222;
+  }
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
   }
   footer {
     padding: 0 2rem;

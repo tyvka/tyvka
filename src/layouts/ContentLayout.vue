@@ -15,6 +15,7 @@
 <style scoped>
 .ContentLayout {
   display: flex;
+  padding: 0 2rem;
 }
 .first {
   width: 200px;
