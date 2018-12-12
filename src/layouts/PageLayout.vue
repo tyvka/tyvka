@@ -13,7 +13,7 @@
 </template>
 
 <style>
-  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i');
   body {
     font-family: Montserrat, sans-serif;
     margin: 0;

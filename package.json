@@ -1,9 +1,10 @@
 {
-  "name": "gridsome",
+  "name": "vil3",
   "private": true,
   "scripts": {
     "build": "gridsome build",
-    "develop": "gridsome develop",
+    "now-build": "gridsome build",
+    "dev": "gridsome develop",
     "explore": "gridsome explore"
   },
   "dependencies": {
