@@ -2,22 +2,22 @@
   <PageLayout>
     <ContentLayout>
       <div slot="first">
-        <h1>Näitused</h1>
-        <h2>{{ $page.show.title }}</h2>
+        <h1>Etendused</h1>
+        <h2>{{ $page.music.title }}</h2>
         <div
           class="content"
-          v-html="$page.show.content"
+          v-html="$page.music.content"
         />
       </div>
       <VLinks
         slot="second"
-        :items="$page.allShow.edges.map(e => e.node)"
+        :items="$page.allMusic.edges.map(e => e.node)"
       />
       <Gallery
         slot="third"
         :images="[
-          $page.show.fields.image,
-          $page.show.fields.image,
+          $page.music.fields.image,
+          $page.music.fields.image,
         ]"
       />
     </ContentLayout>
@@ -25,16 +25,15 @@
 </template>
 
 <page-query>
-  query Show ($path: String!) {
-    show (path: $path) {
+  query Music ($path: String!) {
+    music (path: $path) {
       title
-      date (format: "D MMMM, YYYY")
       content
       fields {
         image
       }
     }
-    allShow (page: 0, order: ASC) {
+    allMusic (page: 0, order: ASC) {
       edges {
         node {
           _id

@@ -2,22 +2,22 @@
   <PageLayout>
     <ContentLayout>
       <div slot="first">
-        <h1>Näitused</h1>
-        <h2>{{ $page.show.title }}</h2>
+        <h1>Sündmused</h1>
+        <h2>{{ $page.event.title }}</h2>
         <div
           class="content"
-          v-html="$page.show.content"
+          v-html="$page.event.content"
         />
       </div>
       <VLinks
         slot="second"
-        :items="$page.allShow.edges.map(e => e.node)"
+        :items="$page.allEvent.edges.map(e => e.node)"
       />
       <Gallery
         slot="third"
         :images="[
-          $page.show.fields.image,
-          $page.show.fields.image,
+          $page.event.fields.image,
+          $page.event.fields.image,
         ]"
       />
     </ContentLayout>
@@ -25,16 +25,15 @@
 </template>
 
 <page-query>
-  query Show ($path: String!) {
-    show (path: $path) {
+  query Event ($path: String!) {
+    event (path: $path) {
       title
-      date (format: "D MMMM, YYYY")
       content
       fields {
         image
       }
     }
-    allShow (page: 0, order: ASC) {
+    allEvent (page: 0, order: ASC) {
       edges {
         node {
           _id

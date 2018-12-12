@@ -3,7 +3,7 @@
     <slot :items="[
       {
         title: 'Etendused',
-        path: $static.allShow.edges[0].node.path,
+        path: $static.allPerformance.edges[0].node.path,
         img: '/images/front1.png'
       },
       {
@@ -11,13 +11,28 @@
         path: $static.allMusic.edges[0].node.path,
         img: '/images/front2.png'
       },
+      {
+        title: 'Kontserdid',
+        path: $static.allShow.edges[0].node.path,
+        img: '/images/front3.png'
+      },
+      {
+        title: 'Inimesed',
+        path: $static.allPeople.edges[0].node.path,
+        img: '/images/front4.png'
+      },
+      {
+        title: 'Sündmused',
+        path: $static.allEvent.edges[0].node.path,
+        img: '/images/front5.png'
+      },
     ]" />
   </div>
 </template>
 
 <static-query>
   query Home ($page: Int) {
-    allShow (page: $page, order: ASC) {
+    allPerformance (page: $page, order: ASC) {
       edges {
         node {
           _id
@@ -27,6 +42,33 @@
       }
     }
     allMusic (page: $page, order: ASC) {
+      edges {
+        node {
+          _id
+          title
+          path
+        }
+      }
+    }
+    allShow (page: $page, order: ASC) {
+      edges {
+        node {
+          _id
+          title
+          path
+        }
+      }
+    }
+    allPeople (page: $page, order: ASC) {
+      edges {
+        node {
+          _id
+          title
+          path
+        }
+      }
+    }
+    allEvent (page: $page, order: ASC) {
       edges {
         node {
           _id
