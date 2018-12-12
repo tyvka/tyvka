@@ -1,7 +1,7 @@
 ---
 title: Revo Koplus
 slug: revo-koplus
-image1: "/images/people/revokoplus1.jpg"
+image1: "/images/revokoplus1.jpg"
 image2: ""
 image3: ""
 image4: ""

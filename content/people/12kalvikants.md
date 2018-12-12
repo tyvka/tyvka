@@ -1,7 +1,7 @@
 ---
 title: Kalvi Kants 
 slug: kalvi-kants
-image1: "/images/people/kalvikants1.jpg"
+image1: "/images/kalvikants1.jpg"
 image2: ""
 image3: ""
 image4: ""

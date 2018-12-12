@@ -1,7 +1,7 @@
 ---
 title: Kätlin Merisalu 
 slug: katlin-merisalu
-image1: "/images/people/katlinmerisalu1.jpg"
+image1: "/images/katlinmerisalu1.jpg"
 image2: ""
 image3: ""
 image4: ""

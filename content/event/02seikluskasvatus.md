@@ -1,11 +1,11 @@
 ---
 title: Seikluskasvatus
 slug: seikluskasvatus
-image1: "/images/event/seiklus1.jpg"
-image2: "/images/event/seiklus2.jpg"
-image3: "/images/event/seiklus3.jpg"
-image4: "/images/event/seiklus4.jpg"
-image5: "/images/event/seiklus5.jpg"
+image1: "/images/seiklus1.jpg"
+image2: "/images/seiklus2.jpg"
+image3: "/images/seiklus3.jpg"
+image4: "/images/seiklus4.jpg"
+image5: "/images/seiklus5.jpg"
 ---
 
 Seikluskasvatusliku keskkonna loomine

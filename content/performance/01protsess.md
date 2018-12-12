@@ -1,11 +1,11 @@
 ---
 title: Protsess
 slug: protsess
-image1: "/images/performance/protsess1.jpg"
-image2: "/images/performance/protsess2.jpg"
-image3: "/images/performance/protsess3.jpg"
-image4: "/images/performance/protsess4.jpg"
-image5: "/images/performance/protsess5.jpg"
+image1: "/images/protsess1.jpg"
+image2: "/images/protsess2.jpg"
+image3: "/images/protsess3.jpg"
+image4: "/images/protsess4.jpg"
+image5: "/images/protsess5.jpg"
 ---
 
 Lavastus PROTSESS rääkis maalt linna tulnud ambitsioonikast noormehest Josef K’st. kes töötas pangas soojal kohal, hindas väga oma positsiooni ja pingutas selle säilitamise nimel. Kolmekümnenda sünnipäeva hommikul esitati talle süüdistus ning algas protsess. Milles teda süüdistatati? Milline oli tema kuritegu? 

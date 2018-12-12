@@ -1,11 +1,11 @@
 ---
 title: Smells Like Teen Spirit
 slug: smellsliketeenspirit
-image1: "/images/performance/smells1.jpg"
-image2: "/images/performance/smells2.jpg"
-image3: "/images/performance/smells3.jpg"
-image4: "/images/performance/smells4.jpg"
-image5: "/images/performance/smells5.jpg"
+image1: "/images/smells1.jpg"
+image2: "/images/smells2.jpg"
+image3: "/images/smells3.jpg"
+image4: "/images/smells4.jpg"
+image5: "/images/smells5.jpg"
 ---
 
 Baltoscandal kutsus aastal 2016 Andros Zins-Browne’i taaslavastama tema Limewire-teose järjekordset versiooni Tartu Ülikooli Viljandi Kultuuriakadeemia tantsu- ja teatritudengitele. Pärast mitmekuulist prooviperioodi esietenduski "Limewire* (v3.0)" Baltoscandalil 6. juulil 2016.

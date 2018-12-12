@@ -1,7 +1,7 @@
 ---
 title: Pille Kannimäe
 slug: pille-kannimae
-image1: "/images/people/pillekannimae1.jpg"
+image1: "/images/pillekannimae1.jpg"
 image2: ""
 image3: ""
 image4: ""

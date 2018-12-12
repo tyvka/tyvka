@@ -1,11 +1,11 @@
 ---
 title: Väljakutsete nädal
 slug: valjakutsetenadal
-image1: "/images/event/valjakutse1.jpg"
-image2: "/images/event/valjakutse2.jpg"
-image3: "/images/event/valjakutse3.jpg"
-image4: "/images/event/valjakutse4.jpg"
-image5: "/images/event/valjakutse5.jpg"
+image1: "/images/valjakutse1.jpg"
+image2: "/images/valjakutse2.jpg"
+image3: "/images/valjakutse3.jpg"
+image4: "/images/valjakutse4.jpg"
+image5: "/images/valjakutse5.jpg"
 ---
 
 Mida rohkem on meie elus väljakutseid, seda enam oleme motiveeritud ja produktiivsed. Nii otsustasime luua “Väljakutsete nädala” mille raames saavad erinevate erialade ja huvidega Tartu Ülikooli Viljandi Kultuuriakadeemia tudengid luua koos viibides kogemusliku-erakordse produkti.  

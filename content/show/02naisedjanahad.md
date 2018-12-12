@@ -1,11 +1,11 @@
 ---
 title: Naised ja Nahad
 slug: naisedjanahad
-image1: "/images/show/naisedjanahad1.jpg"
-image2: "/images/show/naisedjanahad2.jpg"
-image3: "/images/show/naisedjanahad3.jpg"
-image4: "/images/show/naisedjanahad4.jpg"
-image5: "/images/show/naisedjanahad5.jpg"
+image1: "/images/naisedjanahad1.jpg"
+image2: "/images/naisedjanahad2.jpg"
+image3: "/images/naisedjanahad3.jpg"
+image4: "/images/naisedjanahad4.jpg"
+image5: "/images/naisedjanahad5.jpg"
 ---
 
 Rahvusliku tekstiili eriala juures on üheks spetsialiseerumismooduliks traditsiooniline nahatöö ehk nahkesemete valmistaja. Selle puhul avastatakse nahatöö arheoloogiat ja ajalugu, vaadeldakse ja harutatakse mõttes lahti muuseumite nahkesemeid ning uuritakse traditsioonilisi tehnoloogiaid ja folkloori.

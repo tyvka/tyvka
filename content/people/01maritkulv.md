@@ -1,8 +1,8 @@
 ---
 title: Marit Külv
 slug: marit-kulv
-image1: "/images/people/maritkulv1.jpg"
-image2: "/images/people/maritkulv2.jpg"
+image1: "/images/maritkulv1.jpg"
+image2: "/images/maritkulv2.jpg"
 image3: ""
 image4: ""
 image5: ""

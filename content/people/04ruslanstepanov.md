@@ -1,7 +1,7 @@
 ---
 title: Ruslan Stepanov
 slug: ruslan-stepanov
-image1: "/images/people/ruslanstepanov1.jpg"
+image1: "/images/ruslanstepanov1.jpg"
 image2: ""
 image3: ""
 image4: ""

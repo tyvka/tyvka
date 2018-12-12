@@ -1,11 +1,11 @@
 ---
 title: Primavera Paunveres
 slug: primaverapaunveres
-image1: "/images/performance/primavera1.jpg"
-image2: "/images/performance/primavera2.jpg"
-image3: "/images/performance/primavera3.jpg"
-image4: "/images/performance/primavera4.jpg"
-image5: "/images/performance/primavera5.jpg"
+image1: "/images/primavera1.jpg"
+image2: "/images/primavera2.jpg"
+image3: "/images/primavera3.jpg"
+image4: "/images/primavera4.jpg"
+image5: "/images/primavera5.jpg"
 ---
 
 Primavera Paunveres oli tantsulis-visuaalne lavastus, mille aluseks oli Oskar Lutsu noorsooromaan “Kevade”, Igor Stravinski muusika balletile “Kevadpühitsus” ja Sandro Botticelli maal “Primavera. Kevade allegooria”. Laval põimusid kokku ja läbi rahvalik ning kaasaegne. See on moodne Luts teatrilaval.
