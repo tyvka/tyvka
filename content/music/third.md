@@ -1,6 +1,5 @@
 ---
 title: ABaa
-image: "/images/kutse1.jpg"
 slug: third
 ---
 

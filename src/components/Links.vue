@@ -4,27 +4,27 @@
       {
         title: 'Etendused',
         path: $static.allPerformance.edges[0].node.path,
-        img: '/images/front1.png'
+        img: '/images/front/front1.png'
       },
       {
         title: 'Kontserdid',
         path: $static.allMusic.edges[0].node.path,
-        img: '/images/front2.png'
+        img: '/images/front/front2.png'
       },
       {
-        title: 'Kontserdid',
+        title: 'Näitused',
         path: $static.allShow.edges[0].node.path,
-        img: '/images/front3.png'
+        img: '/images/front/front3.png'
       },
       {
         title: 'Inimesed',
         path: $static.allPeople.edges[0].node.path,
-        img: '/images/front4.png'
+        img: '/images/front/front4.png'
       },
       {
         title: 'Sündmused',
         path: $static.allEvent.edges[0].node.path,
-        img: '/images/front5.png'
+        img: '/images/front/front5.png'
       },
     ]" />
   </div>

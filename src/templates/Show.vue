@@ -15,10 +15,7 @@
       />
       <Gallery
         slot="third"
-        :images="[
-          $page.show.fields.image,
-          $page.show.fields.image,
-        ]"
+        :images="$page.show.fields"
       />
     </ContentLayout>
   </PageLayout>
@@ -28,10 +25,13 @@
   query Show ($path: String!) {
     show (path: $path) {
       title
-      date (format: "D MMMM, YYYY")
       content
       fields {
-        image
+        image1
+        image2
+        image3
+        image4
+        image5
       }
     }
     allShow (page: 0, order: ASC) {

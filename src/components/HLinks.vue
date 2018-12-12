@@ -9,7 +9,7 @@
         :key="i"
         :to="item.path"
       >
-        <h4> / {{ item.title }} </h4>
+        <h4> {{ i !== 0 ? '/' : '' }} {{ item.title }} </h4>
       </g-link>
     </div>
   </Links>

@@ -15,9 +15,7 @@
       />
       <Gallery
         slot="third"
-        :images="[
-          $page.people.fields.image,
-        ]"
+        :images="$page.people.fields"
       />
     </ContentLayout>
   </PageLayout>
@@ -29,7 +27,8 @@
       title
       content
       fields {
-        image
+        image1
+        image2
       }
     }
     allPeople (page: 0, order: ASC) {

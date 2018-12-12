@@ -10,7 +10,7 @@
       }"
     >
       <div
-        v-for="(image, i) in images"
+        v-for="(image, i) in currentImages"
         @mouseover="activeIndex == i ? activeIndex = 0 : activeIndex = i"
         @mouseout="activeIndex = 0"
         :key="i"
@@ -29,7 +29,18 @@
 
 <script>
 export default {
-  props: { images: { default: [] }, height: { default: 70 }, width: { default: 8 }},
+  props: { images: { default: {} }, height: { default: 70 }, width: { default: 8 }},
   data: () => ({ activeIndex: 0 }),
+  computed: {
+    currentImages() {
+      return [
+          this.images.image1 || null,
+          this.images.image2 || null ,
+          this.images.image3 || null,
+          this.images.image4 || null ,
+          this.images.image5 || null,
+        ].filter(Boolean)
+    }
+  }
 };
 </script>

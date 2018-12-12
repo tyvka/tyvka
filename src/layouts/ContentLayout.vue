@@ -18,9 +18,9 @@
 }
 .first {
   width: 200px;
-  margin-right: 15px;
 }
 .second {
+  margin-left: 25px;
   width: 200px;
 }
 .third {

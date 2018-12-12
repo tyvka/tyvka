@@ -1,7 +1,5 @@
 ---
 title: First post!
-date: 2018-09-15 07:42:34
-image: "https://i.imgur.com/qeKTrnD.jpg"
 slug: first-post
 ---
 

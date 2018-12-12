@@ -4,7 +4,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      margin-bottom: 3rem;
+      margin-bottom: 2rem;
     ">
       <a href="/"><img src="/assets/vka_logo.png" /></a>
       <a href="/"><img src="/assets/vka_triskele.png" /></a>
@@ -25,7 +25,7 @@
     color: #444;
     line-height: 1.5em;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 12px;
   }
   h1, h2, h3, h4 {
     margin-top: 0;

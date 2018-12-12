@@ -1,6 +1,5 @@
 ---
 title: Oho
-image: "https://i.imgur.com/qeKTrnD.jpg"
 slug: first-post
 ---
 

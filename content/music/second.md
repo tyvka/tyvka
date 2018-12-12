@@ -1,6 +1,5 @@
 ---
 title: Aha
-image: 'https://i.imgur.com/qeKTrnD.jpg'
 slug: second
 ---
 

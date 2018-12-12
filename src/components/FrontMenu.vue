@@ -1,24 +1,26 @@
 <template>
-  <div style="display: flex;">
+  <div style="display: flex; width: 100%;">
     <h3
       v-for="(item,i) in items"
       :key="i"
-      style="font-size: 1.2rem; font-weight: 500; color: white;"
-    >/
+      style="flex: 1;"
+    >
       <g-link
         :style="{
-        flex: 1,
         height: '70vh',
         background: 'url(' + item.img + ')',
         backgroundSize: 'cover',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        cursor: 'pointer'
+        cursor: 'pointer',
+        color: 'white',
+        fontSize: '1.2rem',
+        fontWeight: 500
       }"
         :to="item.path"
       >
-        {{ item.title }} /
+        / {{ item.title }} /
       </g-link>
     </h3>
   </div>

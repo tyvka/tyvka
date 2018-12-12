@@ -15,10 +15,7 @@
       />
       <Gallery
         slot="third"
-        :images="[
-          $page.performance.fields.image,
-          $page.performance.fields.image,
-        ]"
+        :images="$page.performance.fields"
       />
     </ContentLayout>
   </PageLayout>
@@ -30,7 +27,11 @@
       title
       content
       fields {
-        image
+        image1
+        image2
+        image3
+        image4
+        image5
       }
     }
     allPerformance (page: 0, order: ASC) {
