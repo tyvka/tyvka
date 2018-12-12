@@ -29,7 +29,7 @@
 
 <script>
 export default {
-  props: { images: { default: [] }, height: { default: 72 }, width: { default: 8 }},
+  props: { images: { default: [] }, height: { default: 70 }, width: { default: 8 }},
   data: () => ({ activeIndex: 0 }),
 };
 </script>

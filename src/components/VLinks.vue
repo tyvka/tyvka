@@ -1,18 +1,29 @@
 <template>
-  <div>
-    <g-link
+  <div class="VLinks">
+    <h4
       v-for="(item,i) in items"
       :key="i"
-      :to="item.to"
     >
-      <h4>{{ item.title }}</h4>
-    </g-link>
+      <g-link :to="item.path">
+        {{ item.title }}
+      </g-link>
+    </h4>
   </div>
 </template>
 
 <script>
 export default {
-  props: ['items']
-}
+  props: ["items"]
+};
 </script>
+
+<style>
+.VLinks a {
+  padding-bottom: 3px;
+}
+.VLinks a.active {
+  border-bottom: 2px solid #ccc;
+}
+</style>
+
 

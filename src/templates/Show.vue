@@ -2,7 +2,8 @@
   <PageLayout>
     <ContentLayout>
       <div slot="first">
-        <h1>{{ $page.show.title }}</h1>
+        <h1>Etendused</h1>
+        <h2>{{ $page.show.title }}</h2>
         <div
           class="content"
           v-html="$page.show.content"
@@ -10,10 +11,7 @@
       </div>
       <VLinks
         slot="second"
-        :items="[
-          { title: 'Aahaa', to: '/a' },
-          { title: 'Bebee', to: '/a' }
-        ]"
+        :items="$page.allShow.edges.map(e => e.node)"
       />
       <Gallery
         slot="third"
@@ -45,6 +43,15 @@ export default {
       content
       fields {
         image
+      }
+    }
+    allShow (page: 0) {
+      edges {
+        node {
+          _id
+          title
+          path
+        }
       }
     }
   }
