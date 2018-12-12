@@ -1,6 +1,7 @@
 ---
 title: It's third day
-image: "https://i.imgur.com/qeKTrnD.jpg"
+image1: "/images/kutse1.jpg"
+image2: "/images/show2.jpg"
 slug: third
 ---
 
