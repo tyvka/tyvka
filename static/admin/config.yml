@@ -4,6 +4,7 @@ backend:
   repo: kristjanjansen/vil3
 
 media_folder: "/static/images"
+public_folder: "/images"
 
 collections:
   - name: "performance"

@@ -39,9 +39,6 @@ export default {
           this.images.image5 || null,
         ].filter(Boolean)
     }
-  },
-  mounted() {
-    Vue.$forceUpdate()
   }
 };
 </script>
