@@ -21,4 +21,9 @@
   display: flex;
   justify-content: flex-end;
 }
+@media (max-width: 800px) {
+  .HLinks {
+    display: block;
+  }
+}
 </style>

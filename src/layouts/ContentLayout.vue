@@ -12,7 +12,7 @@
   </div>
 </template>
 
-<style scoped>
+<style>
 .ContentLayout {
   display: flex;
   padding: 0 2rem;
@@ -26,6 +26,16 @@
 }
 .third {
   flex: 1;
+}
+@media (max-width: 800px) {
+  .ContentLayout {
+    display: block;
+    padding: 0 2rem;
+  }
+  .first, .second, .third {
+    width: 100%;
+    margin: 2rem 0;
+  }
 }
 </style>
 

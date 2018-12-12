@@ -1,13 +1,13 @@
 <template>
-  <div style="display: flex; width: 100%;">
+  <div class="FrontMenu">
     <h3
       v-for="(item,i) in items"
       :key="i"
-      style="flex: 1;"
+      style="flex: 1; margin: 0;"
     >
       <g-link
+        class="card"
         :style="{
-        height: '70vh',
         background: 'url(' + item.img + ')',
         backgroundSize: 'cover',
         display: 'flex',
@@ -32,3 +32,20 @@ export default {
 };
 </script>
 
+<style scoped>
+.FrontMenu {
+  display: flex;
+  width: 100%;
+}
+.card {
+  height: 70vh;
+}
+@media (max-width: 800px) {
+  .FrontMenu {
+    display: block;
+  }
+  .card {
+    height: 120px;
+  }
+}
+</style>

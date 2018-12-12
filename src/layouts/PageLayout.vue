@@ -1,8 +1,8 @@
 <template>
   <div>
     <header>
-      <a href="/"><img src="/assets/vka_logo.png" /></a>
-      <a href="/"><img src="/assets/vka_triskele.png" /></a>
+      <div><a href="/"><img src="/assets/vka_logo.png" /></a></div>
+      <div><a href="/"><img src="/assets/vka_triskele.png" /></a></div>
       <HLinks />
     </header>
     <slot />
@@ -41,6 +41,11 @@
     align-items: center;
     justify-content: space-between;
     padding: 2rem;
+  }
+  @media (max-width: 800px) {
+    header {
+      display: block;
+    }
   }
   footer {
     padding: 0 2rem;

@@ -27,5 +27,15 @@
 .third {
   flex: 1;
 }
+@media (max-width: 800px) {
+  .PeopleLayout {
+    display: block;
+    padding: 0 2rem;
+  }
+  .first, .second, .third {
+    width: 100%;
+    margin: 2rem 0;
+  }
+}
 </style>
 
