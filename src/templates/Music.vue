@@ -15,10 +15,7 @@
       />
       <Gallery
         slot="third"
-        :images="[
-          $page.music.fields.image,
-          $page.music.fields.image,
-        ]"
+        :images="$page.music.fields"
       />
     </ContentLayout>
   </PageLayout>
@@ -30,7 +27,11 @@
       title
       content
       fields {
-        image
+        image1
+        image2
+        image3
+        image4
+        image5
       }
     }
     allMusic (page: 0, order: ASC) {

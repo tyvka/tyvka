@@ -15,10 +15,7 @@
       />
       <Gallery
         slot="third"
-        :images="[
-          $page.event.fields.image,
-          $page.event.fields.image,
-        ]"
+        :images="$page.event.fields"
       />
     </ContentLayout>
   </PageLayout>
@@ -30,7 +27,11 @@
       title
       content
       fields {
-        image
+        image1
+        image2
+        image3
+        image4
+        image5
       }
     }
     allEvent (page: 0, order: ASC) {

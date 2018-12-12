@@ -20,6 +20,7 @@
           flex: activeIndex == i ? width : 1,
           background: 'url(' + image + ')',
           backgroundSize: 'cover',
+          backgroundRepeat: 'none',
           transition: 'flex 0.3s'
         }"
       ></div>
