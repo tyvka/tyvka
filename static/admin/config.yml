@@ -4,11 +4,38 @@ backend:
   repo: kristjanjansen/vil3
 
 media_folder: "/static/images"
-public_folder: "/images"
 
 collections:
+  - name: "performance"
+    label: "Lavastused"
+    folder: "content/performance"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "title", name: "title", widget: "string" }
+      - { label: "slug", name: "slug", widget: "string" }
+      - { label: "body", name: "body", widget: "markdown" }
+      - { label: "image1", name: "image1", widget: "image", required: false }
+      - { label: "image2", name: "image2", widget: "image", required: false }
+      - { label: "image3", name: "image3", widget: "image", required: false }
+      - { label: "image4", name: "image4", widget: "image", required: false }
+      - { label: "image5", name: "image5", widget: "image", required: false }
+  - name: "music"
+    label: "Kontserdid"
+    folder: "content/music"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "title", name: "title", widget: "string" }
+      - { label: "slug", name: "slug", widget: "string" }
+      - { label: "body", name: "body", widget: "markdown" }
+      - { label: "image1", name: "image1", widget: "image", required: false }
+      - { label: "image2", name: "image2", widget: "image", required: false }
+      - { label: "image3", name: "image3", widget: "image", required: false }
+      - { label: "image4", name: "image4", widget: "image", required: false }
+      - { label: "image5", name: "image5", widget: "image", required: false }
   - name: "show"
-    label: "Shows"
+    label: "Näitused"
     folder: "content/show"
     create: true
     slug: "{{slug}}"
@@ -21,3 +48,32 @@ collections:
       - { label: "image3", name: "image3", widget: "image", required: false }
       - { label: "image4", name: "image4", widget: "image", required: false }
       - { label: "image5", name: "image5", widget: "image", required: false }
+  - name: "people"
+    label: "Inimesed"
+    folder: "content/people"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "title", name: "title", widget: "string" }
+      - { label: "slug", name: "slug", widget: "string" }
+      - { label: "body", name: "body", widget: "markdown" }
+      - { label: "image1", name: "image1", widget: "image", required: false }
+      - { label: "image2", name: "image2", widget: "image", required: false }
+      - { label: "image3", name: "image3", widget: "image", required: false }
+      - { label: "image4", name: "image4", widget: "image", required: false }
+      - { label: "image5", name: "image5", widget: "image", required: false }
+  - name: "event"
+    label: "Sündmused"
+    folder: "content/event"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "title", name: "title", widget: "string" }
+      - { label: "slug", name: "slug", widget: "string" }
+      - { label: "body", name: "body", widget: "markdown" }
+      - { label: "image1", name: "image1", widget: "image", required: false }
+      - { label: "image2", name: "image2", widget: "image", required: false }
+      - { label: "image3", name: "image3", widget: "image", required: false }
+      - { label: "image4", name: "image4", widget: "image", required: false }
+      - { label: "image5", name: "image5", widget: "image", required: false }
+  
