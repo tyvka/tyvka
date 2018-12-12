@@ -10,6 +10,14 @@ module.exports = {
         typeName: 'Show',
         route: '/show/:slug'
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'music/*.md',
+        typeName: 'Music',
+        route: '/music/:slug'
+      }
     }
   ]
 }

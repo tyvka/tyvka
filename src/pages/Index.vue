@@ -1,28 +1,29 @@
 <template>
   <PageLayout>
     <FrontMenu :items="[
-      {title: 'etendused', path: $page.allShow.edges[0].node.path, img: '//media.voog.com/0000/0042/2942/photos/esimene.png'}
+      {title: 'Etendused', path: $page.allShow.edges[0].node.path, img: '//media.voog.com/0000/0042/2942/photos/esimene.png'},
+      {title: 'Kontserdid', path: $page.allMusic.edges[0].node.path, img: '//media.voog.com/0000/0042/2942/photos/esi_II.png'}
     ]" />
   </PageLayout>
 </template>
 
-<script>
-export default {
-  mounted() {
-    console.log(this.$page.allShow)
-  }
-}
-</script>
-
 <page-query>
   query Home ($page: Int) {
-    allShow (page: $page) {
+    allShow (page: $page, order: ASC) {
       edges {
         node {
           _id
           title
           path
-          content
+        }
+      }
+    }
+    allMusic (page: $page, order: ASC) {
+      edges {
+        node {
+          _id
+          title
+          path
         }
       }
     }
