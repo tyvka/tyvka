@@ -1,5 +1,5 @@
 <template>
-  <Menu>
+  <Links>
     <div
       slot-scope="{items}"
       class="HLinks"
@@ -12,7 +12,7 @@
         <h4> / {{ item.title }} </h4>
       </g-link>
     </div>
-  </Menu>
+  </Links>
 </template>
 
 <style>

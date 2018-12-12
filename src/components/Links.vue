@@ -1,13 +1,21 @@
 <template>
   <div>
     <slot :items="[
-      {title: 'Etendused', path: $page.allShow.edges[0].node.path, img: '//media.voog.com/0000/0042/2942/photos/esimene.png'},
-      {title: 'Kontserdid', path: $page.allMusic.edges[0].node.path, img: '//media.voog.com/0000/0042/2942/photos/esi_II.png'}
+      {
+        title: 'Etendused',
+        path: $static.allShow.edges[0].node.path,
+        img: '/images/front1.png'
+      },
+      {
+        title: 'Kontserdid',
+        path: $static.allMusic.edges[0].node.path,
+        img: '/images/front2.png'
+      },
     ]" />
   </div>
 </template>
 
-<page-query>
+<static-query>
   query Home ($page: Int) {
     allShow (page: $page, order: ASC) {
       edges {
@@ -28,7 +36,7 @@
       }
     }
   }
-</page-query>
+</static-query>
 
 <style>
 /*

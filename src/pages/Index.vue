@@ -1,34 +1,10 @@
 <template>
   <PageLayout>
-    <FrontMenu :items="[
-      {title: 'Etendused', path: $page.allShow.edges[0].node.path, img: '//media.voog.com/0000/0042/2942/photos/esimene.png'},
-      {title: 'Kontserdid', path: $page.allMusic.edges[0].node.path, img: '//media.voog.com/0000/0042/2942/photos/esi_II.png'}
-    ]" />
+    <Links>
+      <FrontMenu slot-scope="{items}" :items="items" />
+    </Links>
   </PageLayout>
 </template>
-
-<page-query>
-  query Home ($page: Int) {
-    allShow (page: $page, order: ASC) {
-      edges {
-        node {
-          _id
-          title
-          path
-        }
-      }
-    }
-    allMusic (page: $page, order: ASC) {
-      edges {
-        node {
-          _id
-          title
-          path
-        }
-      }
-    }
-  }
-</page-query>
 
 <style>
 /*
