@@ -3,21 +3,20 @@
     <ContentLayout>
       <div slot="first">
         <h1>Inimesed</h1>
-        <h2>{{ $page.music.title }}</h2>
+        <h2>{{ $page.people.title }}</h2>
         <div
           class="content"
-          v-html="$page.music.content"
+          v-html="$page.people.content"
         />
       </div>
       <VLinks
         slot="second"
-        :items="$page.allMusic.edges.map(e => e.node)"
+        :items="$page.allPeople.edges.map(e => e.node)"
       />
       <Gallery
         slot="third"
         :images="[
-          $page.music.fields.image,
-          $page.music.fields.image,
+          $page.people.fields.image,
         ]"
       />
     </ContentLayout>
@@ -25,18 +24,17 @@
 </template>
 
 <page-query>
-  query Music ($path: String!) {
-    music (path: $path) {
+  query People ($path: String!) {
+    people (path: $path) {
       title
       content
       fields {
         image
       }
     }
-    allMusic (page: 0, order: ASC) {
+    allPeople (page: 0, order: ASC) {
       edges {
         node {
-          _id
           title
           path
         }

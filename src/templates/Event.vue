@@ -36,7 +36,6 @@
     allEvent (page: 0, order: ASC) {
       edges {
         node {
-          _id
           title
           path
         }
