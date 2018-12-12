@@ -1,8 +1,5 @@
 <template>
   <div>
-      <div>
-        <input v-show="false" type="range" v-model="height" min="10" max="100" />
-      </div>
     <div
       :style="{
         display: 'flex',
@@ -18,7 +15,7 @@
           borderRight: '1px solid #ddd',
           display: 'flex',
           flex: activeIndex == i ? width : 1,
-          background: 'url(' + image + ')',
+          backgroundImage: 'url(' + image + ')',
           backgroundSize: 'cover',
           backgroundRepeat: 'none',
           transition: 'flex 0.3s'

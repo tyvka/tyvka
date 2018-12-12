@@ -1,6 +1,6 @@
 <template>
   <PageLayout>
-    <ContentLayout>
+    <PeopleLayout>
       <div slot="first">
         <h1>Inimesed</h1>
         <h2>{{ $page.people.title }}</h2>
@@ -17,7 +17,7 @@
         slot="third"
         :images="$page.people.fields"
       />
-    </ContentLayout>
+    </PeopleLayout>
   </PageLayout>
 </template>
 

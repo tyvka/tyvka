@@ -1,5 +1,6 @@
 import PageLayout from '~/layouts/PageLayout.vue'
 import ContentLayout from '~/layouts/ContentLayout.vue'
+import PeopleLayout from '~/layouts/PeopleLayout.vue'
 
 import Gallery from '~/components/Gallery.vue'
 import Links from '~/components/Links.vue'
@@ -10,6 +11,7 @@ import FrontMenu from '~/components/FrontMenu.vue'
 export default function (Vue) {
   Vue.component('PageLayout', PageLayout)
   Vue.component('ContentLayout', ContentLayout)
+  Vue.component('PeopleLayout', PeopleLayout)
 
   Vue.component('Gallery', Gallery)
   Vue.component('Links', Links)

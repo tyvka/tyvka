@@ -1,11 +1,8 @@
 ---
 title: Marit Külv
-slug: maritkulv
+slug: marit-kulv
 image1: "/images/people/maritkulv1.jpg"
 image2: "/images/people/maritkulv2.jpg"
-image3: "/images/people/maritkulv1.jpg"
-image4: "/images/people/maritkulv2.jpg"
-image5: "/images/people/maritkulv3.jpg"
 ---
 
 Marit Külv on õppinud TÜ Viljandi kultuuriakadeemias rahvuslikku tekstiili ja eesti pärimusmeditsiini. Tema põhilisteks huvideks ja uurimissuundadeks on võrkvööd, pulmapärimus, Lõuna-Eesti rahvariided, looduslik taimne toit, regilaul ja kestlik eluviis laiemalt.
