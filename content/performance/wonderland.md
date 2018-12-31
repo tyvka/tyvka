@@ -1,6 +1,6 @@
 ---
 title: WONDERLAND
-slug: wonderland
+slug: /performance
 image1: /images/dscf8673-l-.jpg
 image2: /images/dscf8979-l-.jpg
 image3: /images/dscf9208-l-.jpg
