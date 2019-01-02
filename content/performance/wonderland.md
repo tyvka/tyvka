@@ -1,7 +1,7 @@
 ---
 title: WONDERLAND
 slug: wonderland
-image1: /images/dscf8673-l-.jpg
+image1: ''
 image2: /images/dscf8979-l-.jpg
 image3: /images/dscf9208-l-.jpg
 image4: /images/dscf8816-l-.jpg
