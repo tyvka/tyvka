@@ -2,10 +2,10 @@
 title: WONDERLAND
 slug: wonderland
 image1: ''
-image2: /images/dscf8979-l-.jpg
-image3: /images/dscf9208-l-.jpg
-image4: /images/dscf8816-l-.jpg
-image5: /images/dscf8993-l-.jpg
+image2: ''
+image3: ''
+image4: ''
+image5: ''
 ---
 Dayana Zagorskaya ütles oma diplomilavastuse tutvustuses:
 
