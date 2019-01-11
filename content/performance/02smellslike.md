@@ -8,6 +8,8 @@ image4: /images/smells4.jpg
 image5: /images/smells5.jpg
 ---
 Baltoscandal kutsus aastal 2016 Andros Zins-Browne’i taaslavastama tema Limewire-teose järjekordset versiooni Tartu Ülikooli Viljandi kultuuriakadeemia tantsu- ja teatritudengitele. Pärast mitmekuulist prooviperioodi esietenduski "Limewire* (v3.0)" Baltoscandalil 6. juulil 2016.
+
+
 Andros Zins-Browne: "Noorteliikumised, kontrakultuurilised ja subkultuursed liikumised on alati kehastanud vastuseisu vaimu. Neile sotsiaalsetele, poliitilistele ja kultuurilistele liikumistele on omased kokkupõrked, reageerimine ja muutlikkus. Võrgustikest ja failijagamisprogrammidest alguse saanud koreograafia seab küsimuse alla kõigele vastu olemise vaimsuse. Seda ajal, mil kõige tugevamaks kultuurivastaseks tööriistaks on osutunud kopeerimine. Mis staatusega on noorteliikumine, mis levitab võrdselt autentset ja võltsi; mis on täis viirusi, aga kunagi ei sure; mis ei loo midagi uut, vaid paljuneb massiliselt pelgalt läbi enese taasloomise ja osade uuesti kokkupanemise?"
 
 **Koreograaf** Andros Zins-Browne
@@ -21,6 +23,5 @@ Sandra Iché, 2nd year Limewire workshop v3.0
 **Esitajad** Maris Kahre, Karl Kask, Leanika Mändma, Reelika Poroson, Stella
 Kruusamägi, Kadi Keskülla, Kristo Sauela
 **Projektijuht** Irene Hütsi
-Koostöös Tartu Ülikooli Viljandi kultuuriakadeemia etenduskunstide osakonnaga.
 Toetaja Eesti Kultuurkapital
-Esietendus 6.07.2016 Baltoscandal festival, Rakvere
+Esietendus 5. juuli 2016 Baltoscandal festival, Rakvere
