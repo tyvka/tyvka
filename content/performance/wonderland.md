@@ -5,7 +5,7 @@ image1: /images/wonderland2.jpg
 image2: /images/wonderland3.jpg
 image3: /images/wonderland4.jpg
 image4: /images/wonderland1.jpg
-image5: /images/wonderland5.jpg
+image5: ''
 ---
 Dayana Zagorskaya ütles oma diplomilavastuse tutvustuses:
 
