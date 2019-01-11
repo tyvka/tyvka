@@ -7,8 +7,7 @@ image3: /images/smells3.jpg
 image4: /images/smells4.jpg
 image5: /images/smells5.jpg
 ---
-Baltoscandal kutsus aastal 2016 Andros Zins-Browne’i taaslavastama tema Limewire-teose järjekordset versiooni Tartu Ülikooli Viljandi kultuuriakadeemia tantsu- ja teatritudengitele. Pärast mitmekuulist prooviperioodi esietenduski "Limewire* (v3.0)" Baltoscandalil 6. juulil 2016.
-
+Baltoscandal kutsus 2016. aastal Andros Zins-Browne’i taaslavastama tema Limewire-teose järjekordset versiooni Tartu Ülikooli Viljandi kultuuriakadeemia tantsu- ja teatritudengitele. Pärast mitmekuulist prooviperioodi esietenduski "Limewire* (v3.0)" Baltoscandalil 6. juulil 2016.
 
 Andros Zins-Browne: "Noorteliikumised, kontrakultuurilised ja subkultuursed liikumised on alati kehastanud vastuseisu vaimu. Neile sotsiaalsetele, poliitilistele ja kultuurilistele liikumistele on omased kokkupõrked, reageerimine ja muutlikkus. Võrgustikest ja failijagamisprogrammidest alguse saanud koreograafia seab küsimuse alla kõigele vastu olemise vaimsuse. Seda ajal, mil kõige tugevamaks kultuurivastaseks tööriistaks on osutunud kopeerimine. Mis staatusega on noorteliikumine, mis levitab võrdselt autentset ja võltsi; mis on täis viirusi, aga kunagi ei sure; mis ei loo midagi uut, vaid paljuneb massiliselt pelgalt läbi enese taasloomise ja osade uuesti kokkupanemise?"
 
