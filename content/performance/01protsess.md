@@ -9,7 +9,7 @@ image5: /images/protsess5.jpg
 ---
 Lavastus PROTSESS räägib maalt linna tulnud ambitsioonikast noormehest Josef K’st, kes töötab pangas soojal kohal, hindab väga oma positsiooni ja pingutab selle säilitamise nimel. Kolmekümnenda sünnipäeva hommikul esitatakse talle süüdistus ning algab protsess. Milles teda süüdistatakse? Milline on tema kuritegu? 
 
-„Protsess” on psühholoogilist, füüsilist ning nuku- ja visuaalteatrit siduv noortelavastus, mis käsitleb inimeseks olemise baasteemasid.
+PROTSESS on psühholoogilist, füüsilist ning nuku- ja visuaalteatrit siduv noortelavastus, mis käsitleb inimeseks olemise baasteemasid.
 
 **Autor** Franz Kafka
 
