@@ -15,8 +15,6 @@ Selle loo vundamendiks on L. Carrolli "Alice Imedemaal" ja A. Puškini "Pidu kat
 
 **Lavastaja **Dayana Zagorskaja 
 
-**Laval **Karin Lamson, Märten Matsu (Rakvere teater), Jaune Kimmel (Rakvere teater), Martin Tikk, Stella Kruusamägi, Karl Kask/Carl Heinrich Pruun, Karl Robert Saaremäe, Tanel Ting, Grete Jürgenson (Rakvere teater)
-
 **Valguskujundus**: Jari Matsi 
 
 **Helikujundus **Vootele Ruusmaa 
@@ -28,3 +26,7 @@ Selle loo vundamendiks on L. Carrolli "Alice Imedemaal" ja A. Puškini "Pidu kat
 **Fotod** Ksenja Kurs
 
 **Juhendaja **Oleg Titov
+
+**Laval **Karin Lamson, Märten Matsu (Rakvere teater), Jaune Kimmel (Rakvere teater), Martin Tikk, Stella Kruusamägi, Karl Kask/Carl Heinrich Pruun, Karl Robert Saaremäe, Tanel Ting, Grete Jürgenson (Rakvere teater)
+
+****
