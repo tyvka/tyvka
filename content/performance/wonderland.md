@@ -21,7 +21,7 @@ Selle loo vundamendiks on L. Carrolli "Alice Imedemaal" ja A. Puškini "Pidu kat
 
 **Heli **Robert Suun 
 
-**Special thanks** Getter Meresmaa, Anna Rosalie Uudre, Marie Anett Heinsalu, Liisa Liksor
+**Tänusõnad** Getter Meresmaa, Anna Rosalie Uudre, Marie Anett Heinsalu, Liisa Liksor
 
 **Fotod** Ksenja Kurs
 
@@ -29,4 +29,4 @@ Selle loo vundamendiks on L. Carrolli "Alice Imedemaal" ja A. Puškini "Pidu kat
 
 **Laval **Karin Lamson, Märten Matsu (Rakvere teater), Jaune Kimmel (Rakvere teater), Martin Tikk, Stella Kruusamägi, Karl Kask/Carl Heinrich Pruun, Karl Robert Saaremäe, Tanel Ting, Grete Jürgenson (Rakvere teater)
 
-****
+- - -
