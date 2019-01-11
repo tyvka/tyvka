@@ -7,9 +7,9 @@ image3: /images/protsess3.jpg
 image4: /images/protsess4.jpg
 image5: /images/protsess5.jpg
 ---
-Lavastus PROTSESS räägib maalt linna tulnud ambitsioonikast noormehest Josef K’st, kes töötab pangas soojal kohal, hindab väga oma positsiooni ja pingutab selle säilitamise nimel. Kolmekümnenda sünnipäeva hommikul esitatakse talle süüdistus ning algab protsess. Milles teda süüdistatakse? Milline on tema kuritegu? 
+Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef K’st, kes töötab pangas soojal kohal, hindab väga oma positsiooni ja pingutab selle säilitamise nimel. Kolmekümnenda sünnipäeva hommikul esitatakse talle süüdistus ning algab protsess. Milles teda süüdistatakse? Milline on tema kuritegu? 
 
-PROTSESS on psühholoogilist, füüsilist ning nuku- ja visuaalteatrit siduv noortelavastus, mis käsitleb inimeseks olemise baasteemasid.
+"Protsess" on psühholoogilist, füüsilist ning nuku- ja visuaalteatrit siduv noortelavastus, mis käsitleb inimeseks olemise baasteemasid.
 
 **Autor** Franz Kafka
 
