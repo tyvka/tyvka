@@ -9,9 +9,9 @@ image5: ''
 ---
 Cätlin Mägi on TÜ Viljandi kultuuriakadeemia muusikaosakonna vilistlane ja õppejõud. Ta on üks silmapaistvamaid eeskujusid eesti pärimusmuusika maastikul: meister eesti torupilli ja parmupilli traditsioonis, professionaalne ja särav muusik, karismaatiline õpetaja. 
 
-Cätlin mängib ansamblites RO:TORO, Torupilli Jussi Trio, Aparaat (Tiit Kikas & Cätlin Mägi) ja Ju-Ju (DJ & Cätlin Mägi).
+Ta mängib ansamblites RO:TORO, Torupilli Jussi Trio, Aparaat (Tiit Kikas & Cätlin Mägi) ja Ju-Ju (DJ & Cätlin Mägi).
 
-Tema motod on: 
+Cätlini motod: 
 
 _Ei ole mõtet pikalt mõelda!
 Töö teeb rikkaks!_
