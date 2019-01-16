@@ -7,12 +7,13 @@ image3: /images/naisedjanahad3.jpg
 image4: /images/naisedjanahad4.jpg
 image5: /images/naisedjanahad5.jpg
 ---
+Rahvusliku tekstiili eriala juures on üheks spetsialiseerumismooduliks traditsiooniline nahatöö ehk nahkesemete valmistaja. Mooduli valinud tudengid avastavad nahatöö arheoloogiat ja ajalugu, vaatlevad ja harutavad mõttes lahti muuseumite nahkesemeid ning uurivad traditsioonilisi tehnoloogiaid ja folkloori.
 
-Rahvusliku tekstiili eriala juures on üheks spetsialiseerumismooduliks traditsiooniline nahatöö ehk nahkesemete valmistaja. Selle puhul avastatakse nahatöö arheoloogiat ja ajalugu, vaadeldakse ja harutatakse mõttes lahti muuseumite nahkesemeid ning uuritakse traditsioonilisi tehnoloogiaid ja folkloori.
+Tõhela talu lammastel on olnud oluline roll nahastamise juures. Suviti pargivad üliõpilased Vormsil toornahku maarjajääga ning jahuhapatisega; katsetavad ka taimparki ja toornaha töötlemise erivõtteid. Peale millimeetri kaupa materjali tundmaõppimist saavad nad alustada kasukate ja jalatsite, kottide ja teiste esemete valmistamisega.
 
-Tõhela talu lammastel on olnud oluline roll nahastamise juures. Suviti pargivad üliõpilased Vormsil toornahku maarjajääga ning jahuhapatisega. Katsetavad ka taimparki ja toornaha töötlemise erivõtteid. Peale millimeetri kaupa materjali tundmaõppimist saavad nad alustada kasukate ja jalatsite, kottide ja teiste esemete valmistamisega.
+Kristina Rajando ja Made Uus, TÜ Viljandi kultuuriakadeemia õppejõud:
 
-Kristina Rajando ja Made Uus, TÜ Viljandi kultuuriakadeemia õppejõud: “Käsitleme looma kui tervikut ja püüame austavalt suhtuda kõigesse, mis tema juurde kuulub. Meie
-tegevuse pärast ei ole ükski loom pidanud kaotama oma elu. Pigem on tegu loomuliku eluprotsessi ja majandamisega, sageli ka kellegi teise jaoks jäätmematerjalide üleskorjamisega.”
+_„Käsitleme looma kui tervikut ja püüame austavalt suhtuda kõigesse, mis tema juurde kuulub. Meie
+tegevuse pärast ei ole ükski loom pidanud kaotama oma elu. Pigem on tegu loomuliku eluprotsessi ja majandamisega, sageli ka kellegi teise jaoks jäätmematerjalide üleskorjamisega.”_
 
-Näitust “NAISED JA NAHAD. Hunt, lambad ja teised” sai vaadata 2.-13. november Vilma maja galeriis
+Näitust “NAISED JA NAHAD. Hunt, lambad ja teised” sai vaadata 2.–13. novembril 2015 Vilma maja galeriis.
