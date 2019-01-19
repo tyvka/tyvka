@@ -1,6 +1,6 @@
 ---
 title: Valgusfestival Valge ÖÖ
-slug: Valge ÖÖ
+slug: valge-oo
 image1: /images/44127054871_b49cac01a3_o.jpg
 image2: /images/43219232115_c9bfce4d91_o.jpg
 image3: /images/43220267365_23d862f3e9_o.jpg
