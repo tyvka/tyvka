@@ -1,5 +1,5 @@
 ---
-title: Eve Komissarov
+title: Eve Komissarov - etenduskunstide osakonna visuaaltehnoloogia programmijuht
 slug: eve-komissarov
 image1: /images/evekomissarov1.jpg
 image2: ''
