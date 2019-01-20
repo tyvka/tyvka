@@ -1,5 +1,5 @@
 ---
-title: Pille Kannimäe
+title: 'Pille Kannimäe - Etrenduskunstide osakonna vilistlane '
 slug: pille-kannimae
 image1: /images/pillekannimae1.jpg
 image2: ''
