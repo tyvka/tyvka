@@ -1,11 +1,11 @@
 ---
 title: 12 Karamazovit
 slug: 12_karamazovit
-image1: /images/12-karamazovs-2011_6159593706_o.jpg
+image1: /images/12-karamazovs-2011_6159608064_o.jpg
 image2: /images/12-karamazovs-2011_6159259307_o.jpg
 image3: /images/12-karamazovs-2011_6159132609_o.jpg
 image4: /images/12-karamazovs-2011_6159162005_o.jpg
-image5: /images/12-karamazovs-2011_6159608064_o.jpg
+image5: /images/12-karamazovs-2011_6159593706_o.jpg
 ---
 Pole kahtlustki, et Kristian Smeds on Soome kõige jõulisema käekirjaga lavastaja. Von Krahli teatri vahendusel on Eestiski seda tundelist ja metsikut Soome geeniust armastama õpitud. Tema ootamatud tõlgendused klassikast on kurikuulsad ja külastavad teatrifestivale Moskvast Brüsselini. “Karamazovid” ei olnud mitte järjekordne klassikatõlgendus, vaid kirgas meeleolu, millesse oli pühendunud kogu see maailmavallutusplaaniga meeskond. 
 
