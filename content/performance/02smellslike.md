@@ -1,5 +1,5 @@
 ---
-title: Limewire (V.3.0)
+title: Smells like teen spirit
 slug: smellsliketeenspirit
 image1: /images/smells1.jpg
 image2: /images/smells2.jpg
