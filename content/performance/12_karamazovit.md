@@ -7,42 +7,72 @@ image3: /images/12-karamazovs-2011_6159132609_o.jpg
 image4: /images/12-karamazovs-2011_6159162005_o.jpg
 image5: /images/12-karamazovs-2011_6159608064_o.jpg
 ---
-Pole kahtlustki, et Kristian Smeds on soome kõige jõulisema käekirjaga lavastaja. Von Krahli teatri vahendusel on Eestiski seda tundelist ja metsikut soome geeniust armastama õpitud. Tema ootamatud tõlgendused klassikast on nii kuulsad kui kurikuulsad ning külastavad teatrifestivale Moskvast Brüsselini. “Karamazovid” ei olnud mitte järjekordne klassikatõlgendus, vaid kirgas meeleolu, millesse oli pühendunud kogu see maailmavallutusplaaniga meeskond. 
+Pole kahtlustki, et Kristian Smeds on Soome kõige jõulisema käekirjaga lavastaja. Von Krahli teatri vahendusel on Eestiski seda tundelist ja metsikut Soome geeniust armastama õpitud. Tema ootamatud tõlgendused klassikast on kurikuulsad ja külastavad teatrifestivale Moskvast Brüsselini. “Karamazovid” ei olnud mitte järjekordne klassikatõlgendus, vaid kirgas meeleolu, millesse oli pühendunud kogu see maailmavallutusplaaniga meeskond. 
 
-**Dramaturg & Lavastaja: KRISTIAN SMEDS **
+**Dramaturg ja lavastaja **
 
-**Lavakujundus, kostüümid ja rekvisiit: JANI ULJAS **
+Kristjan Smeds
 
-**Valguskujundus ja efektid:TEEMU NURMELIN **
+**Laval**
 
-**Muusikaline juht: ISMO LAAKSO **
+Jim Ashilevi, Kait Kall, Ott Kartau, Liis Lindmaa, Loore Martma, Maili Metssalu, Madis Mäeorg, Tõnis Niinemets, Mari Pokinen, Ivo Reinok, Marion Undusk, Ragne Veensalu
 
-**Laval: JIM ASHILEVI, KAIT KALL, OTT KARTAU, LIIS LINDMAA, LOORE MARTMA, MAILI METSSALU, MADIS MÄEORG, TÕNIS NIINEMETS, MARI POKINEN, IVO REINOK, MARION UNDUSK, RAGNE VEENSALU** 
+**Lavakujundus, kostüümid ja rekvisiit **
 
-**Helirezii: MARTIN KIKAS **
+Jani Uljas
 
-**Valgustehnik: STEN VALGUS **
+**Valguskujundus ja efektid **
 
-**Helitehnik: ATTE OLSONEN **
+Teemu Nurmelin
 
-**Tehniline tugi: ENAR TARMO, JANNO “JOHN” JAANUS, ALLAN RÄIM, OLIVER KULPSOO, ANNE-MAI HEIMOLA **
+**Muusikaline juht **
 
-**Plakat: MARION UNDUSK **
+Ismo Laakso
 
-**Graafiline teostus: EMER VÄRK **
+**Helirezii**
 
-**Video montaaz ja fotod: VILLE HYVÖNEN **
+Martin Kikas
 
-**Fotod ja kavalehe fotod: JANA SOLOM **
+**Valgustehnik**
 
-**Marketing, dokumentatsioon, video: MIRKKA MAIKOLA **
+Sten Valgus
 
-**Produtsendid: EEVA BERGROTH, KATRIN VINGEL **
+**Helitehnik**
 
-**Esietendus: 2011**
+Atte Olsonen
+
+**Tehniline tugi**
+
+Enar Tarmo, Janno "John" Jaanus, Allan Räim, Oliver Kulpsoo, Anne-Mai Heimola 
+
+**Plakat**
+
+Marion Undusk
+
+**Graafiline teostus**
+
+Emer Värk
+
+**Video montaaz ja fotod**
+
+Ville Hyvönen 
+
+**Fotod ja kavalehe fotod**
+
+Jana Solom
+
+**Marketing, dokumentatsioon, video**
+
+Mirkka Maikola
+
+**Produtsendid**
+
+Eeva Bregroth, Katrin Vingel** **
+
+**Fotod **Ville Hyvonen
+
+**Esietendus **2011
 
 Lavastus valmis Smeds Ensemble ja Von Krahli Teatri koostöös ning Euroopa Kultuuripealinnade Tallinn 2011 ja Turu 2011 toetusel. 14 etendust toimusid Tallinnas, 10 etendust Turus, lisaks etendused Berliinis, Hamburgis, Riias ja Amsterdamis.
 
-**Fotod: Ville Hyvonen**
-
-****
+- - -
