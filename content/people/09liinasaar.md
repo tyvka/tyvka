@@ -7,6 +7,8 @@ image3: ''
 image4: ''
 image5: ''
 ---
+Liina Saar on muusikaosakonna lektor.
+
 Muusikaosakonna laulu ja hääleseade lektor Liina Saar on _jazz_'i-huvilisele publikule tuttav laulja ja laulukirjutaja. Ta on lõpetanud Stockholmi Kuningliku Muusikaakadeemia ning Eesti Muusika- ja Teatriakadeemia ning lisaks täiendanud ennast Göteborgi Muusikaakadeemias.  Liina Saar on tegev mitmes muusikakollektiivis, sh MiaMee ja Verbarium.
 
 Liina mõtteid:
