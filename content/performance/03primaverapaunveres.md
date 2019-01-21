@@ -11,7 +11,6 @@ Primavera Paunveres on tantsulis-visuaalne lavastus, mille aluseks on Oskar Luts
 
 Itaalia kunstniku Sandro Botticelli maal “Primavera” väljendab liikumist karnaalsest, füüsilisest armastusest platoonilisse, vaimsesse armastusse. Lutsu “Kevades” Arno ja Teele vahel midagi lihalikku küll ei toimu, unistatakse pulmadest, millega loomulikult kaasnevad ihulikud rõõmud, kuid teose kogu rahvale pähe kulunud lõpus Arno siiski keeldub Teele kutsest minna Rajale uut maja vaatama. Ta eelistab lilli, heinamaad, päikesepaistet ning “hüppab kähku vankrile ja sõidab kodu poole, ilma et ta enam kordagi Teele poole vaataks” – platooniline armastus võidab.
 
-
 Kui Stravinski paganlikul müütosel põhinevas ning karnaalsusest nõretavas „Kevadpühitsuses“ viiakse läbi iidset riitust, mille lõpuks “väljavalitu” sureb ohvritantsus, siis “Primavera Paunveres” on kaasaegne Lutsu “Kevade” riitus kuskil tantsuruumis, diskoteegis. Tõesti, Lutsu tegelased elavad ju ka kaasajal. Kas mööduks ükski päev, kus me ei kohtaks Arnot või Teelet, Liblet või õpetaja Lauri, isegi Julk-Jüri?
 
 Nagu “Kevade” oli Arvo Kruusemendi (küll varasemalt teise režissöörina töötanud) esimene film, nii on ka “Primavera Paunveres” TÜ VKA 12. lennu esimene diplomilavastus. Ja ei tasu unustada, et “Kevade” ilmumise ajal oli Luts kõigest 25-aastane noormees, kelle jaoks oli “Kevade” debüütromaan. 
@@ -32,8 +31,8 @@ Nagu “Kevade” oli Arvo Kruusemendi (küll varasemalt teise režissöörina t
 
 **Videokujundus** Kärt Petser, Carmen Seljamaa, Johanna Mägin (TÜ VKA), Karl Koppelmaa, Sasha Pepeljajev
 
-**Esietendus** 07. detsember 2017 Ugala teatri suures saalis
-
-**Osades**
+**Laval**
 
 TÜ Viljandi Kultuuriakadeemia etenduskunstide osakonna teatrikunsti 12. lend: Elar Vahter, Elena Koit, Grete Konksi, Hans Kristian Õis, Henessi Schmidt, Karolin Jürise, Kristjan Poom, Loviise Kapper, Maarja Tammemägi, Mari Anton, Mathias Einari Leedo, Peep Maasik, Silva Pijon ja Stefan Hein
+
+**Esietendus** 07. detsember 2017 Ugala teatri suures saalis
