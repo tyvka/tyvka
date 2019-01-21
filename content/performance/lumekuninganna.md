@@ -11,34 +11,20 @@ Lavastuse aluseks oli Hans Christian Anderseni klassikaline lugu Lumekuningannas
 
 Lavastus oli Gerda seikluslik rännak läbi talvise võlumaa, kus igapäeva- askeldused jäid seljataha ja ees seisid üha uued katsumused ning peategelaste eesmärgiks oli saada jagu imekauni Lumekuninganna võluväest ning leida tee Kaj jäätunud südameni.
 
-**Lavastaja**
+**Lavastaja **Oleg Titov
 
-Oleg Titov
+**Kunstnik **Rosita Raud (NUKU)
 
-**Kunstnik **
+**Helilooja ja -kujundaja **Peeter Konovalov
 
-Rosita Raud (NUKU)
+**Valguskujundaja  **Rene Liivamägi
 
-**Helilooja ja -kujundaja**
-
-Peeter Konovalov
-
-**Valguskujundaja **
-
-Rene Liivamägi
-
-**Videokujundaja **
-
-Katre Sulane
+**Videokujundaja  **Katre Sulane
 
 **Laval**
 
 TÜ Viljandi Kultuuriakadeemia etenduskunstide osakonna teatrikunsti 12. lend: Elar Vahter, Elena Koit, Grete Konksi, Hans Kristian Õis, Henessi Schmidt, Karolin Jürise, Kristjan Poom, Loviise Kapper, Maarja Tammemägi, Mari Anton, Mathias Einari Leedo, Peep Maasik, Silva Pijon ja Stefan Hein
 
-**Fotod**
+**Fotod **Heigo Teder
 
-Heigo Teder
-
-**Esietendus**
-
-07. detsember 2017 Ugala teatri suures saalis
+**Esietendus **7.** **detsember 2017 Ugala teatri suures saalis
