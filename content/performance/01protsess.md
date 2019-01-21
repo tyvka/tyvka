@@ -29,10 +29,10 @@ Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef
 
 **Tõlkija** August Sang
 
-**Esietendus** 11. novembril 2018 NUKU teatri väikeses saalis
-
-Ühes vaatuses, 1 h 50 min
-
 **Laval**
 
 NUKU teatri näitleja Liivika Hanstin ja TÜ Viljandi Kultuuriakadeemia etenduskunstide osakonna teatrikunsti 12. lend: Stefan Hein, Karolin Jürise, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter, Mari Anton.
+
+**Esietendus** 11. novembril 2018 NUKU teatri väikeses saalis
+
+Ühes vaatuses, 1 h 50 min
