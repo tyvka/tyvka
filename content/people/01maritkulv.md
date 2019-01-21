@@ -7,7 +7,9 @@ image3: ''
 image4: ''
 image5: ''
 ---
-Marit Külv on õppinud TÜ Viljandi kultuuriakadeemias rahvuslikku tekstiili ja eesti pärimusmeditsiini. Tema põhilisteks huvideks ja uurimissuundadeks on võrkvööd, pulmapärimus, Lõuna-Eesti rahvariided, looduslik taimne toit, regilaul ja kestlik eluviis laiemalt.
+Marit Külv on kultuuriakadeemia vilistlane ja projekti koordinaator.
+
+Marit on õppinud TÜ Viljandi kultuuriakadeemias rahvuslikku tekstiili ja eesti pärimusmeditsiini. Tema põhilisteks huvideks ja uurimissuundadeks on võrkvööd, pulmapärimus, Lõuna-Eesti rahvariided, looduslik taimne toit, regilaul ja kestlik eluviis laiemalt.
 
 Oma õpingute kohta TÜ VKA-s ütleb Marit järgnevat:
 
