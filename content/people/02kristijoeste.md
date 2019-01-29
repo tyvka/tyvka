@@ -1,8 +1,8 @@
 ---
 title: Kristi Jõeste
 slug: kristi-joeste
-image1: ''
-image2: /images/kristijoeste2.jpg
+image1: /images/aastal2012bw.jpg
+image2: ''
 image3: ''
 image4: ''
 image5: ''
