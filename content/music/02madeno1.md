@@ -7,4 +7,4 @@ image3: /images/1made3.jpg
 image4: /images/1made4.jpg
 image5: /images/1made5.jpg
 ---
-17. oktoobril 2017 toimus Viljandi gümnaasiumi aatriumis muusikaosakonna kontserdisarja MADE avapauk. Publikurekordiga ettemängul astus üles kaheksa pärimus- ja rütmimuusika ansamblit.
+Kontserdisarja MADE avapauk toimus 17. oktoobril 2017 toimus Viljandi gümnaasiumi aatriumis. Publikurekordiga ettemängul astus üles kaheksa pärimus- ja rütmimuusika ansamblit.
