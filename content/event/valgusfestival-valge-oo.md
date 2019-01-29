@@ -1,10 +1,11 @@
 ---
 title: Valgusfestival Valge ÖÖ
 slug: valge-oo
-image1: /images/44127054871_b49cac01a3_o.jpg
-image2: /images/43219232115_c9bfce4d91_o.jpg
-image3: /images/43220267365_23d862f3e9_o.jpg
-image4: /images/44078455442_b6d47ce616_o.jpg
+image1: /images/4valge.jpg
+image2: /images/1valge.jpg
+image3: /images/2valge.jpg
+image4: /images/44077824922_9c2292049b_o.jpg
+image5: /images/3valge.jpg
 ---
 Valguspidu Valge ÖÖ Keila-Joal tõi 18. augustil 2018 kokku üle kuue tuhande inimese, et tähistada üheskoos Eesti looduse päeva, Eesti Vabariigi 100. sünnipäeva ja projekti „Lights On!“ lõppu. 
 
