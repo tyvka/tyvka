@@ -1,8 +1,8 @@
 ---
 title: Marit Külv
 slug: marit-kulv
-image1: /images/maritkulv1.jpg
-image2: /images/maritkulv2.jpg
+image1: /images/marit_portfoolio_sandra_urvaku_foto.jpg
+image2: ''
 image3: ''
 image4: ''
 image5: ''
@@ -20,3 +20,5 @@ _Õige käsitööline ei istu loengus kunagi jõude, olgu näpu vahel kinnas, su
 _Kohalike materjalide tundmine ja kasutamine ning pärandoskused on kui baas, millele toetuda, saamaks hakkama isemajandava ning jäätmevaba ettevõtja või loojana._ 
 
 _Rahvusliku käsitöö osakond on kui suur pere, kus õppejõud ja tudengid tunnevad üksteist ning saavad vabalt erinevatel teemadel arutleda.“_
+
+Foto Sandra Urvak
