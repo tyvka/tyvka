@@ -11,8 +11,28 @@ Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef
 
 "Protsess" on psühholoogilist, füüsilist ning nuku- ja visuaalteatrit siduv noortelavastus, mis käsitleb inimeseks olemise baasteemasid.
 
-**Autor** Franz Kafka **Dramatiseerija** Mihkel Seeder (VAT teater) **Lavastaja** Taavi Tõnisson **Kunstnik** Annika Aedma **Liikumisjuht** Olga Privis **Helilooja ja -kujundaja** Vootele Ruusmaa **Valguskujundajad** TÜ VKA tudengid Mari-Riin Paavo juhendamisel **Videokujundajad** TÜ VKA tudengid Taavet Janseni juhendamisel **Tõlkija** August Sang **Laval **Liivika Hanstin ja teatrikunsti **12. lend**: Stefan Hein, Karolin Jürise, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter, Mari Anton **Fotod** Siim Vahur
+**Autor** Franz Kafka 
+
+**Dramatiseerija** Mihkel Seeder (VAT teater) 
+
+**Lavastaja** Taavi Tõnisson
+
+**Kunstnik** Annika Aedma 
+
+**Liikumisjuht** Olga Privis 
+
+**Helilooja ja -kujundaja** Vootele Ruusmaa 
+
+**Valguskujundajad** TÜ VKA tudengid Mari-Riin Paavo juhendamisel 
+
+**Videokujundajad** TÜ VKA tudengid Taavet Janseni juhendamisel 
+
+**Tõlkija** August Sang 
+
+**Laval** Liivika Hanstin ja teatrikunsti 
+
+**12. lend**: Stefan Hein, Karolin Jürise, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter, Mari Anton 
+
+**Fotod** Siim Vahur
 
 **Esietendus** 11. novembril 2018 NUKU teatri väikeses saalis
-
-Ühes vaatuses, 1 h 50 min
