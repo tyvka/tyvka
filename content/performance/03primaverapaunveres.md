@@ -31,8 +31,6 @@ Nagu “Kevade” oli Arvo Kruusemendi (küll varasemalt teise režissöörina t
 
 **Videokujundus** Kärt Petser, Carmen Seljamaa, Johanna Mägin (TÜ VKA), Karl Koppelmaa, Sasha Pepeljajev
 
-**Laval**
-
-TÜ Viljandi Kultuuriakadeemia etenduskunstide osakonna teatrikunsti 12. lend: Elar Vahter, Elena Koit, Grete Konksi, Hans Kristian Õis, Henessi Schmidt, Karolin Jürise, Kristjan Poom, Loviise Kapper, Maarja Tammemägi, Mari Anton, Mathias Einari Leedo, Peep Maasik, Silva Pijon ja Stefan Hein
+**Laval** TÜ Viljandi Kultuuriakadeemia etenduskunstide osakonna teatrikunsti 12. lend: Elar Vahter, Elena Koit, Grete Konksi, Hans Kristian Õis, Henessi Schmidt, Karolin Jürise, Kristjan Poom, Loviise Kapper, Maarja Tammemägi, Mari Anton, Mathias Einari Leedo, Peep Maasik, Silva Pijon ja Stefan Hein
 
 **Esietendus** 07. detsember 2017 Ugala teatri suures saalis
