@@ -2,10 +2,10 @@
 title: KULG
 slug: kulg
 image1: /images/20150314_7842.jpg
-image2: /images/20150218_6708.jpg
-image3: /images/20150319_8125.jpg
-image4: /images/20150422_1825.jpg
-image5: /images/20150319_8287.jpg
+image2: /images/20150319_8125.jpg
+image3: /images/20150422_1825.jpg
+image4: /images/20150319_8287.jpg
+image5: ''
 ---
 TÜ Viljandi kultuuriakadeemia rahvusliku käsitöö osakonna 2015. aasta lõpetajate foto näitus "Kulg" on pilguheit üliõpilaste lõputöö praktilise osa tegemistesse ja tulemustesse. 
 
