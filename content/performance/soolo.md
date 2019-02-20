@@ -7,7 +7,7 @@ image3: /images/dsc2705.png
 image4: /images/dsc2470.png
 image5: /images/dsc3143.png
 ---
-Ruslan Stepanovi ja Artjom Astrov töötavad tantsukunsti 3. kursusega ja kahenädalase lavastusprotsessi tulemusel esietendub lavastus "Soolod" 8.03.2019  kultuuriakadeemia BlackBox'is.
+Ruslan Stepanov ja Artjom Astrov töötavad tantsukunsti eriala III kursusega ja kahenädalase lavastusprotsessi tulemusel esietendub 8. märtsil 2019 kultuuriakadeemia mustas saalis lavastus „Soolod".
 
 **Lavastus** Ruslan Stepanov 
 
@@ -15,6 +15,6 @@ Ruslan Stepanovi ja Artjom Astrov töötavad tantsukunsti 3. kursusega ja kahen�
 
 **Valguskujundus** Aleksandr Mirson (TÜ VKA visuaaltehnoloogia) 
 
-**Laval** Egely Pruuli, Kristiin Kulpson, Kirte Jõesaar, Mari-Liis Tali, Joanna Kärt Pärtel, Liis Konsap, Helina Karvak, Tuuli Roosi ja Alexis Sarah Garner 
+**Laval** Egely Pruuli, Kristiin Kulpson, Kirte Jõesaar, Mari-Liis Tali, Joanna Kärt Pärtel, Liis Konsap, Helina Karvak, Tuuli Roosi ja Alexis Sarah Garner.
 
 **Fotod** Taavet Jansen
