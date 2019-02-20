@@ -9,7 +9,7 @@ image5: /images/img_9975.jpg
 ---
 Lavastuse aluseks oli Hans Christian Anderseni klassikaline lugu Lumekuningannast, mis oli omakorda põimitud teiste kuulsate lastemuinasjuttudega.
 
-Lavastus oli Gerda seikluslik rännak läbi talvise võlumaa, kus igapäeva- askeldused jäid seljataha ja ees seisid üha uued katsumused ning peategelaste eesmärgiks oli saada jagu imekauni Lumekuninganna võluväest ning leida tee Kaj jäätunud südameni.
+Lavastus oli Gerda seikluslik rännak läbi talvise võlumaa, kus igapäevaaskeldused jäid seljataha ja ees seisid üha uued katsumused ning peategelaste eesmärgiks oli saada jagu imekauni Lumekuninganna võluväest ning leida tee Kaj jäätunud südameni.
 
 **Lavastaja** Oleg Titov 
 
@@ -27,4 +27,4 @@ Lavastus oli Gerda seikluslik rännak läbi talvise võlumaa, kus igapäeva- ask
 
 **Fotod** Heigo Teder 
 
-**Esietendus** 7.detsember 2017 Ugala teatri suures saalis
+**Esietendus** 7. detsember 2017 Ugala teatri suures saalis
