@@ -21,10 +21,10 @@ Lavastus oli Gerda seikluslik rännak läbi talvise võlumaa, kus igapäevaaskel
 
 **Videokujundaja**  Katre Sulane 
 
-**Laval**  teatrikunsti 
+**Laval** teatrikunsti 
 
 **12. lend**: Elar Vahter, Elena Koit, Grete Konksi, Hans Kristian Õis, Henessi Schmidt, Karolin Jürise, Kristjan Poom, Loviise Kapper, Maarja Tammemägi, Mari Anton, Mathias Einari Leedo, Peep Maasik, Silva Pijon ja Stefan Hein 
 
 **Fotod** Heigo Teder 
 
-**Esietendus** 7. detsember 2017 Ugala teatri suures saalis
+**Esietendus** 7. detsembril 2017 Ugala teatri suures saalis
