@@ -1,10 +1,10 @@
 ---
-title: oma maailm
+title: Oma Maailm
 slug: omamaailm
 image1: /images/img_2486.jpg
-image2: /images/img_2619.jpg
+image2: /images/img_2599.jpg
 image3: /images/img_2567.jpg
-image4: /images/img_2599.jpg
+image4: /images/img_2619.jpg
 ---
 Meil kõigil on oma maailm, mille valguses näeme, kuuleme ja mõistame ümbritsevat. Kontsert "Oma maailm" oli Marit Ilvese jazzmuusika eriala diplomikontsert ja esitusele tulid lood, mis olid  oluline osa Mariti maailmast viimase nelja aasta jooksul, õppides Viljandis, Helsingis ja reisides maailmas ringi.
 
