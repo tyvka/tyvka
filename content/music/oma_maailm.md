@@ -6,9 +6,9 @@ image2: /images/img_2599.jpg
 image3: /images/img_2567.jpg
 image4: /images/img_2619.jpg
 ---
-Meil kõigil on oma maailm, mille valguses näeme, kuuleme ja mõistame ümbritsevat. Kontsert "Oma maailm" oli Marit Ilvese jazzmuusika eriala diplomikontsert ja esitusele tulid lood, mis olid  oluline osa Mariti maailmast viimase nelja aasta jooksul, õppides Viljandis, Helsingis ja reisides maailmas ringi.
+Meil kõigil on oma maailm, mille valguses näeme, kuuleme ja mõistame ümbritsevat. Kontsert "Oma maailm" oli Marit Ilvese _jazz_-muusika eriala diplomikontsert ja esitusele tulid lood, mis olid oluline osa Mariti maailmast viimase nelja aasta jooksul, õppides Viljandis, Helsingis ja reisides maailmas ringi.
 
-Jazzmuusika eriala üliõpilase Marit Lauri diplomikontsert “Oma maailm” toimus 27. mail 2017 pärimusmuusikia aida suures saalis. 
+_Jazz_-muusika eriala üliõpilase Marit Lauri diplomikontsert „Oma maailm” toimus 27. mail 2017 Viljandi pärimusmuusika aida suures saalis. 
 
 **Laval**
 
@@ -32,9 +32,11 @@ Jazzmuusika eriala üliõpilase Marit Lauri diplomikontsert “Oma maailm” toi
 
 **Kersti Aun** laul
 
+
+
 **Rauno Avel** heli
 
-**Kärt Petser** videovalgus
+**Kärt Petser** video, valgus
 
 **Kaisa Ekbaum** ilus saal
 
