@@ -1,5 +1,5 @@
 ---
-title: Mari Meentalo "Ajamasin"
+title: Mari Meentalo „Ajamasin"
 slug: ajamasin
 image1: /images/mg_19461_kerttu_kruusla.jpg
 image2: /images/copy_of_mg_2011_1_kerttu_kruusla.jpg
