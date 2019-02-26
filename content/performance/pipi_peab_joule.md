@@ -31,8 +31,8 @@ Lavastaja Mari Anton ütleb: _„Pipi Pikksukk on teada oma punaste patside, tug
 
 **Dramatiseerijad** Kålle Gunnarsson ja Katarina Isaksson 
 
-**Laval** 12. lennu tudengid Karolin Jürise, Grete Konksi, Kristjan Poom, Maarja Tammemägi, Stefan Hein, Mathias-Einari Leedo, Henessi Schmidt, Hans Kristian Õis, Silva Pijon.
+**Laval** teatrikunsti 12. lennu üliõpilased Karolin Jürise, Grete Konksi, Kristjan Poom, Maarja Tammemägi, Stefan Hein, Mathias-Einari Leedo, Henessi Schmidt, Hans Kristian Õis ja Silva Pijon.
 
 **Fotod** Alan Proosa
 
-**Esietendus** 8. detsembril 2018 Rakvere Teatris
+**Esietendus** 8. detsembril 2018 Rakvere teatris
