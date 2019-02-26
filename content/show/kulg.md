@@ -9,6 +9,6 @@ image5: ''
 ---
 TÜ Viljandi kultuuriakadeemia rahvusliku käsitöö osakonna 2015. aasta lõpetajate fotonäitus „Kulg“ on pilguheit üliõpilaste lõputööde praktilise osa tegemistesse ja tulemustesse. 
 
-Kuidas kulgeb noore looja aeg? Kas see pakub talle piisavalt väljakutseid? Mis on suuremat rahulolu väärt, kas tegemise protsess, katsetamiste, ümbermõtlemiste hetked? Või arusaam, et oled osake paikkonna kultuurist ja kannad edasi käsitöötraditsioone? Või hoopis lõpp-tulemus ja kohale jõudmine? 
+Kuidas kulgeb noore looja aeg? Kas see pakub talle piisavalt väljakutseid? Mis on suuremat rahulolu väärt, kas tegemise protsess, katsetamiste, ümbermõtlemiste hetked? Või arusaam, et oled osake paikkonna kultuurist ja kannad edasi käsitöötraditsioone? Või hoopis lõpp-tulemus ja kohale jõudmine?
 
  **Fotod** Sandra Urvak
