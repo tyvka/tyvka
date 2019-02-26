@@ -11,7 +11,7 @@ Pole kahtlustki, et Kristian Smeds on Soome kõige jõulisema käekirjaga lavast
 
 **Dramaturg ja lavastaja** Kristjan Smeds
 
-**Laval** teatrikunsti **8. lend**: Jim Ashilevi, Kait Kall, Ott Kartau, Liis Lindmaa, Loore Martma, Maili Metssalu, Madis Mäeorg, Tõnis Niinemets, Mari Pokinen, Ivo Reinok, Marion Undusk, Ragne Veensalu
+**Laval** teatrikunsti 8. lennu üliõpilased Jim Ashilevi, Kait Kall, Ott Kartau, Liis Lindmaa, Loore Martma, Maili Metssalu, Madis Mäeorg, Tõnis Niinemets, Mari Pokinen, Ivo Reinok, Marion Undusk ja Ragne Veensalu.
 
 **Lavakujundus, kostüümid ja rekvisiidid** Jani Uljas
 
