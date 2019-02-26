@@ -29,7 +29,7 @@ Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef
 
 **Videokujundajad** TÜ VKA tudengid Taavet Janseni juhendamisel 
 
-**Laval** Liivika Hanstin ja teatrikunsti **12. lend**: Stefan Hein, Karolin Jürise, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter, Mari Anton 
+**Laval** Liivika Hanstin ning teatrikunsti 12. lennu üliõpilased Stefan Hein, Karolin Jürise, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter ja Mari Anton.
 
 **Fotod** Siim Vahur
 
