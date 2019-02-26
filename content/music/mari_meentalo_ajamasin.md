@@ -9,7 +9,7 @@ image5: /images/copy_of_mg_1908_1_kerttu_kruusla.jpg
 ---
 Pärimusmuusika eriala üliõpilase Mari Meentalo diplomikontsert „Ajamasin" toimus Viljandi pärimusmuusika aida suures saalis 28. mail 2018.
 
-**Laval**
+
 
 **Analoogsüntesaatorid ja heli** Johannes Ahun
 
