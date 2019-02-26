@@ -21,7 +21,7 @@ Lavastus oli Gerda seikluslik rännak läbi talvise võlumaa, kus igapäevaaskel
 
 **Videokujundaja** Katre Sulane 
 
-**Laval** teatrikunsti 12. lennu tudengid Elar Vahter, Elena Koit, Grete Konksi, Hans Kristian Õis, Henessi Schmidt, Karolin Jürise, Kristjan Poom, Loviise Kapper, Maarja Tammemägi, Mari Anton, Mathias Einari Leedo, Peep Maasik, Silva Pijon ja Stefan Hein.
+**Laval** teatrikunsti 12. lennu üliõpilased Elar Vahter, Elena Koit, Grete Konksi, Hans Kristian Õis, Henessi Schmidt, Karolin Jürise, Kristjan Poom, Loviise Kapper, Maarja Tammemägi, Mari Anton, Mathias Einari Leedo, Peep Maasik, Silva Pijon ja Stefan Hein.
 
 **Fotod** Heigo Teder 
 
