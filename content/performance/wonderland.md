@@ -9,11 +9,11 @@ image5: ''
 ---
 Dayana Zagorskaya ütleb oma diplomilavastuse tutvustuses:
 
-_Inimene on vaatamata oma soole patune. See, mis meiega elus juhtub, ei ole midagi muud kui meie valik. Meie valime ja meie määrame enda tee, mille kaudu elus liigume. Noored on need, kes loovad meie riiki, meie Wonderlandi. On see Imedemaa päriselt ime, mis toob rõõmu või siis vastupidi – on see rõve ja räpane koht... seda otsustame meie ise, inimesed; kõigepealt noored, kelle käes ja võimuses on Imedemaa loomise võimalus._
+_„Inimene on vaatamata oma soole patune. See, mis meiega elus juhtub, ei ole midagi muud kui meie valik. Meie valime ja meie määrame enda tee, mille kaudu elus liigume. Noored on need, kes loovad meie riiki, meie Wonderlandi. On see Imedemaa päriselt ime, mis toob rõõmu või siis vastupidi – on see rõve ja räpane koht... seda otsustame meie ise, inimesed; kõigepealt noored, kelle käes ja võimuses on Imedemaa loomise võimalus.“_
 
 Selle loo vundamendiks on L. Carrolli „Alice Imedemaal“ ja A. Puškini „Pidu katku ajal“, näitlejate elulood, isiklikud arvamused ja mõtted, mis tekkisid kas vestlustest või kirjutatud esseedest.
 
-**Lavastaja** Dayana Zagorskaja 
+**Lavastaja** Dayana Zagorskaya 
 
 **Valguskujundus** Jari Matsi 
 
