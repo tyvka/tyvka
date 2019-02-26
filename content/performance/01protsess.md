@@ -9,9 +9,11 @@ image5: /images/protsess5.jpg
 ---
 Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef K’st, kes töötab pangas soojal kohal, hindab väga oma positsiooni ja pingutab selle säilitamise nimel. Kolmekümnenda sünnipäeva hommikul esitatakse talle süüdistus ning algab protsess. Milles teda süüdistatakse? Milline on tema kuritegu? 
 
-"Protsess" on psühholoogilist, füüsilist ning nuku- ja visuaalteatrit siduv noortelavastus, mis käsitleb inimeseks olemise baasteemasid.
+„Protsess“ on psühholoogilist, füüsilist ning nuku- ja visuaalteatrit siduv noortelavastus, mis käsitleb inimeseks olemise baasteemasid.
 
-**Autor** Franz Kafka 
+**Autor** Franz Kafka
+
+**Tõlkija** August Sang
 
 **Dramatiseerija** Mihkel Seeder (VAT teater) 
 
@@ -27,11 +29,7 @@ Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef
 
 **Videokujundajad** TÜ VKA tudengid Taavet Janseni juhendamisel 
 
-**Tõlkija** August Sang 
-
-**Laval** Liivika Hanstin ja teatrikunsti 
-
-**12. lend**: Stefan Hein, Karolin Jürise, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter, Mari Anton 
+**Laval** Liivika Hanstin ja teatrikunsti **12. lend**: Stefan Hein, Karolin Jürise, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter, Mari Anton 
 
 **Fotod** Siim Vahur
 
