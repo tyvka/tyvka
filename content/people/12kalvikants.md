@@ -11,4 +11,4 @@ Kalvi on lõpetanud TÜ Viljandi kultuuriakadeemia huvihariduse pedagoogi eriala
 
 2010. aastal asutas ta seiklus- ja meelelahutusüritusi korraldava ettevõtte Elamuspank, mis praeguseks on arenenud nelja kultuuriakadeemia vilistlasest töötajaga üritusturundusagentuuriks.
 
-_„Meie huvijuhtide kursusel oli huumoriga pooleks ütlus „kui huvi on, siis miks mitte“. Tagantjärele vaadates oli akadeemia minu jaoks huvi tekitaja. Avatud ja loominguline õppekeskkond arendas või – pigem võiks öelda – vabastas loovust. Selle kõige juures oli erialaõppejõudude tugi pidevalt olemas, neile meeldis küsida: „Aga mida SINA tahad?”. Kehtis reegel – vali vaid idee välja ja hakka tegutsema.”_
+_„Meie huvijuhtide kursusel oli huumoriga pooleks ütlus „Kui huvi on, siis miks mitte“. Tagantjärele vaadates oli akadeemia minu jaoks huvi tekitaja. Avatud ja loominguline õppekeskkond arendas või – pigem võiks öelda – vabastas loovust. Selle kõige juures oli erialaõppejõudude tugi pidevalt olemas, neile meeldis küsida: „Aga mida SINA tahad?” Kehtis reegel – vali vaid idee välja ja hakka tegutsema.”_
