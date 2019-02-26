@@ -10,7 +10,7 @@ Meil kõigil on oma maailm, mille valguses näeme, kuuleme ja mõistame ümbrits
 
 Kontsert „Oma maailm” toimus 27. mail 2017 Viljandi pärimusmuusika aida suures saalis. 
 
-**Laval**
+Laval
 
 **Madis Orr** kitarr, klaver
 
@@ -32,7 +32,7 @@ Kontsert „Oma maailm” toimus 27. mail 2017 Viljandi pärimusmuusika aida suu
 
 **Kersti Aun** laul
 
-****
+- - -
 
 **Rauno Avel** heli
 
