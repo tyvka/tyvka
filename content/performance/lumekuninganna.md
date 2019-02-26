@@ -17,9 +17,9 @@ Lavastus oli Gerda seikluslik rännak läbi talvise võlumaa, kus igapäevaaskel
 
 **Helilooja ja -kujundaja** Peeter Konovalov 
 
-**Valguskujundaja**  Rene Liivamägi 
+**Valguskujundaja** Rene Liivamägi 
 
-**Videokujundaja**  Katre Sulane 
+**Videokujundaja** Katre Sulane 
 
 **Laval** teatrikunsti 12. lennu tudengid Elar Vahter, Elena Koit, Grete Konksi, Hans Kristian Õis, Henessi Schmidt, Karolin Jürise, Kristjan Poom, Loviise Kapper, Maarja Tammemägi, Mari Anton, Mathias Einari Leedo, Peep Maasik, Silva Pijon ja Stefan Hein.
 
