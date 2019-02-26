@@ -9,4 +9,4 @@ Taavet on lõpetanud Tallinna Ülikooli koreograafia eriala ning Amsterdami Teat
 
 _„Mina olen ainult agent, kes näitab tudengitele paralleeluniversumi, kus inimestevahelised suhted, olukordadevahelised seosed ja asjade tähendused on muutuvad, ebausaldusväärsed ja suhtelised. Kokku tuleb aga etendus, kus kõik leiame oma koha!”_
 
-foto: Kris Moor
+Foto Kris Moor
