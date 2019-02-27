@@ -46,5 +46,13 @@
   }
 </page-query>
 
+<script>
+export default {
+  metaInfo: {
+    title: 'Näitused'
+  }
+}
+</script>
+
 <style>
 </style>
