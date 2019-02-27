@@ -45,5 +45,13 @@
   }
 </page-query>
 
+<script>
+export default {
+  metaInfo: {
+    title: 'Sündmused'
+  }
+}
+</script>
+
 <style>
 </style>
