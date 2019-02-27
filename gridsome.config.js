@@ -1,6 +1,6 @@
 module.exports = {
-  siteName: `VKA`,
-  titleTemplate: `%s - VKA`,
+  siteName: `Viljandi Kultuuriakadeemia - Portfolio`,
+  titleTemplate: `%s - Viljandi Kultuuriakadeemia`,
   plugins: [
     {
       use: '@gridsome/source-filesystem',
