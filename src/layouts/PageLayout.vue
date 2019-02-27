@@ -7,7 +7,7 @@
     </header>
     <slot />
     <footer>
-      <a target="_blank" href="https://www.kultuur.ut.ee/et">kultuur.ut.ee</a> / +372 435 5232 / kultuur@ut.ee / Posti 1, 71004 Viljandi
+      <a target="_blank" href="https://www.kultuur.ut.ee/et">kultuur.ut.ee</a>&nbsp;/ +372 435 5232 / kultuur@ut.ee / Posti 1, 71004 Viljandi
     </footer>
   </div>
 </template>
