@@ -1,7 +1,7 @@
 ---
 title: Cätlin Mägi
 slug: catlin-magi
-image1: ''
+image1: /images/ca_tlin.jpg
 image2: ''
 image3: ''
 image4: ''
