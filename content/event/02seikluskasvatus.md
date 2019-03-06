@@ -1,11 +1,10 @@
 ---
 title: Seikluskasvatus
 slug: seikluskasvatus
-image1: >-
-  https://raw.githubusercontent.com/tyvka/tyvka/master/static/images/seiklus5.jpg
+image1: /images/1175154_10151788454927107_939135453_n.jpg
 image2: /images/seiklus2.jpg
 image3: /images/mg_8938.jpg
-image4: /images/1175154_10151788454927107_939135453_n.jpg
+image4: ''
 image5: >-
   https://raw.githubusercontent.com/tyvka/tyvka/master/static/images/seiklus1.jpg
 ---
