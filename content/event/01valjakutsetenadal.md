@@ -1,7 +1,7 @@
 ---
 title: Väljakutsete nädal
 slug: valjakutsetenadal
-image1: /images/valjakutse1.jpg
+image1: /images/dsc5137_1_.jpg
 image2: /images/valjakutse2.jpg
 image3: /images/valjakutse3.jpg
 image4: /images/valjakutse4.jpg
