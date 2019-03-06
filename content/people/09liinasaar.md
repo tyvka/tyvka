@@ -1,7 +1,7 @@
 ---
 title: Liina Saar
 slug: liina-saar
-image1: ''
+image1: /images/liina.jpg
 image2: ''
 image3: ''
 image4: ''
