@@ -5,7 +5,7 @@ image1: >-
   https://raw.githubusercontent.com/tyvka/tyvka/master/static/images/seiklus5.jpg
 image2: /images/seiklus2.jpg
 image3: /images/mg_8938.jpg
-image4: ''
+image4: /images/1175154_10151788454927107_939135453_n.jpg
 image5: >-
   https://raw.githubusercontent.com/tyvka/tyvka/master/static/images/seiklus1.jpg
 ---
