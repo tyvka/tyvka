@@ -1,11 +1,13 @@
 ---
 title: Seikluskasvatus
 slug: seikluskasvatus
-image1: /images/seiklus1.jpg
+image1: >-
+  https://raw.githubusercontent.com/tyvka/tyvka/master/static/images/seiklus5.jpg
 image2: /images/seiklus2.jpg
 image3: /images/mg_8938.jpg
-image4: /images/seiklus4.jpg
-image5: /images/seiklus5.jpg
+image4: ''
+image5: >-
+  https://raw.githubusercontent.com/tyvka/tyvka/master/static/images/seiklus1.jpg
 ---
 Seikluskasvatusliku keskkonna loomise aine raames teevad praktilist tööd kogukonna arendamiseks nii tudengid kui ka õppejõud. Tudengite ülesanne on suunata oma teadmiseid ning oskuseid koolinoortele, organiseerides neile mitte ainult seikluslikke, vaid ka kasvatuslikke tegevusi. Õppejõud samal ajal organiseerib ja viib läbi huvilistest koolilaste vanematele ja õpetajatele kursust „Viha valitsemine“, järgides põhimõtet, et kasvatust vajavad kõik – nii lapsed kui ka täiskasvanud. Selle tudengite ja õppejõudude pilootprojekti sihtgrupiks on Viljandi linna ja Viljandi valla koolid. Tänaseks on käimas koostöö Heimtali ja Saarepeedi kooliga, Tääksi noortetoaga ning Viljandi Kutseõppekeskusega.
 
