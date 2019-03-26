@@ -4,13 +4,15 @@
       slot-scope="{items}"
       class="HLinks"
     >
-      <g-link
+      <h4>
+       <g-link
         v-for="(item,i) in items"
         :key="i"
         :to="item.path"
       >
-        <h4> {{ i !== 0 ? '/' : '' }} {{ item.title }} </h4>
+        {{ i !== 0 ? '/' : '' }} {{ item.title }}
       </g-link>
+      </h4>
     </div>
   </Links>
 </template>
