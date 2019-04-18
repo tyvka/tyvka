@@ -1,7 +1,7 @@
 ---
 title: Merli Antsmaa
 slug: merli-antsmaa
-image1: ''
+image1: /images/merliantsmaa_renejakobson2017_03.jpg
 image2: ''
 image3: ''
 image4: ''
