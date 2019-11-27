@@ -1,5 +1,6 @@
 ---
 title: Wonderland
+title_en: Wonderland
 slug: wonderland
 image1: /images/wonderland2.jpg
 image2: /images/wonderland3.jpg

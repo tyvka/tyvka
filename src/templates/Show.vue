@@ -37,6 +37,7 @@
         node {
           id
           title
+          title_en
           path
         }
       }

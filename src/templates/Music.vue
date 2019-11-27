@@ -42,6 +42,7 @@
       edges {
         node {
           title
+          title_en
           path
         }
       }

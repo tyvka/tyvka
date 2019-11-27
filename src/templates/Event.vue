@@ -7,7 +7,7 @@
         <div class="content" v-html="splitContent[0]" />
       </div>
       <div slot="first_en">
-        <h1>Events</h1>
+        <h1 v-if="$page.event.title_en">Events</h1>
         <h2>{{ $page.event.title_en }}</h2>
         <div class="content" v-html="splitContent[1]" />
       </div>
@@ -36,6 +36,7 @@
       edges {
         node {
           title
+          title_en
           path
         }
       }
