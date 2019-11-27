@@ -4,7 +4,12 @@
       <div slot="first">
         <h1>Kontserdid</h1>
         <h2>{{ $page.music.title }}</h2>
-        <div class="content" v-html="$page.music.content" />
+        <div class="content" v-html="splitContent[0]" />
+      </div>
+      <div slot="first_en">
+        <h1>Music</h1>
+        <h2>{{ $page.music.title_en }}</h2>
+        <div class="content" v-html="splitContent[1]" />
       </div>
       <VLinks slot="second" :items="$page.allMusic.edges.map(e => e.node)" />
       <Gallery
@@ -25,6 +30,7 @@
   query Music ($path: String!) {
     music (path: $path) {
       title
+      title_en
       content
       image1
       image2
@@ -47,6 +53,11 @@
 export default {
   metaInfo: {
     title: "Kontserdid"
+  },
+  computed: {
+    splitContent() {
+      return this.$page.music.content.split(/<p>--<\/p>/);
+    }
   }
 };
 </script>

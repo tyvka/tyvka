@@ -52,9 +52,6 @@ export default {
     splitContent() {
       return this.$page.performance.content.split(/<p>--<\/p>/);
     }
-  },
-  mounted() {
-    console.log(this.splitContent);
   }
 };
 </script>
