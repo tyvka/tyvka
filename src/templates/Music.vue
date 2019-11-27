@@ -9,7 +9,13 @@
       <VLinks slot="second" :items="$page.allMusic.edges.map(e => e.node)" />
       <Gallery
         slot="third"
-        :images="{image1: $page.music.image1,image2: $page.music.image2,image3: $page.music.image3,image4: $page.music.image4,image5: $page.music.image5}"
+        :images="{
+          image1: $page.music.image1,
+          image2: $page.music.image2,
+          image3: $page.music.image3,
+          image4: $page.music.image4,
+          image5: $page.music.image5
+        }"
       />
     </ContentLayout>
   </PageLayout>

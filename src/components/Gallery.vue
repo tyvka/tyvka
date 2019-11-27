@@ -1,11 +1,9 @@
 <template>
   <div>
-    <div
-      :style="{
+    <div :style="{
         display: 'flex',
         height: height + 'vh',
-      }"
-    >
+      }">
       <div
         v-for="(image, i) in currentImages"
         @mouseover="activeIndex == i ? activeIndex = 0 : activeIndex = i"
@@ -21,23 +19,27 @@
           transition: 'flex 0.3s'
         }"
       ></div>
-      </div>
     </div>
+  </div>
 </template>
 
 <script>
 export default {
-  props: { images: { default: {} }, height: { default: 70 }, width: { default: 8 }},
+  props: {
+    images: { default: {} },
+    height: { default: 50 },
+    width: { default: 8 }
+  },
   data: () => ({ activeIndex: 0 }),
   computed: {
     currentImages() {
       return [
-          this.images.image1 || null,
-          this.images.image2 || null ,
-          this.images.image3 || null,
-          this.images.image4 || null ,
-          this.images.image5 || null,
-        ].filter(Boolean)
+        this.images.image1 || null,
+        this.images.image2 || null,
+        this.images.image3 || null,
+        this.images.image4 || null,
+        this.images.image5 || null
+      ].filter(Boolean);
     }
   }
 };

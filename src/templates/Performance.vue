@@ -4,7 +4,12 @@
       <div slot="first">
         <h1>Lavastused</h1>
         <h2>{{ $page.performance.title }}</h2>
-        <div class="content" v-html="$page.performance.content" />
+        <div class="content" v-html="splitContent[0]" />
+      </div>
+      <div slot="first_en">
+        <h1>Performances</h1>
+        <h2>{{ $page.performance.title_en }}</h2>
+        <div class="content" v-html="splitContent[1]" />
       </div>
       <VLinks slot="second" :items="$page.allPerformance.edges.map(e => e.node)" />
       <Gallery
@@ -19,6 +24,7 @@
   query Performance ($path: String!) {
     performance (path: $path) {
       title
+      title_en
       content
       image1
       image2
@@ -41,6 +47,14 @@
 export default {
   metaInfo: {
     title: "Lavastused"
+  },
+  computed: {
+    splitContent() {
+      return this.$page.performance.content.split(/<p>--<\/p>/);
+    }
+  },
+  mounted() {
+    console.log(this.splitContent);
   }
 };
 </script>

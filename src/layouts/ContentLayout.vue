@@ -3,6 +3,9 @@
     <div class="first">
       <slot name="first" />
     </div>
+    <div class="first_en">
+      <slot name="first_en" />
+    </div>
     <div class="second">
       <slot name="second" />
     </div>
@@ -19,6 +22,11 @@
 }
 .first {
   width: 200px;
+  padding-right: 10px;
+}
+.first_en {
+  width: 200px;
+  padding-right: 10px;
 }
 .second {
   margin-left: 25px;
@@ -32,7 +40,9 @@
     display: block;
     padding: 0 2rem;
   }
-  .first, .second, .third {
+  .first,
+  .second,
+  .third {
     width: 100%;
     margin: 2rem 0;
   }
