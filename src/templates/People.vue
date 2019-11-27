@@ -4,18 +4,12 @@
       <div slot="first">
         <h1>Inimesed</h1>
         <h2>{{ $page.people.title }}</h2>
-        <div
-          class="content"
-          v-html="$page.people.content"
-        />
+        <div class="content" v-html="$page.people.content" />
       </div>
-      <VLinks
-        slot="second"
-        :items="$page.allPeople.edges.map(e => e.node)"
-      />
+      <VLinks slot="second" :items="$page.allPeople.edges.map(e => e.node)" />
       <Gallery
         slot="third"
-        :images="$page.people.fields"
+        :images="{image1: $page.people.image1,image2: $page.people.image2,image3: $page.people.image3,image4: $page.people.image4,image5: $page.people.image5}"
       />
     </PeopleLayout>
   </PageLayout>
@@ -26,13 +20,11 @@
     people (path: $path) {
       title
       content
-      fields {
-        image1
-        image2
-        image3
-        image4
-        image5
-      }
+      image1
+      image2
+      image3
+      image4
+      image5
     }
     allPeople (page: 0, order: ASC) {
       edges {
@@ -48,9 +40,9 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Inimesed'
+    title: "Inimesed"
   }
-}
+};
 </script>
 
 <style>

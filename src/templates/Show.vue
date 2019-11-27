@@ -4,18 +4,12 @@
       <div slot="first">
         <h1>Näitused</h1>
         <h2>{{ $page.show.title }}</h2>
-        <div
-          class="content"
-          v-html="$page.show.content"
-        />
+        <div class="content" v-html="$page.show.content" />
       </div>
-      <VLinks
-        slot="second"
-        :items="$page.allShow.edges.map(e => e.node)"
-      />
+      <VLinks slot="second" :items="$page.allShow.edges.map(e => e.node)" />
       <Gallery
         slot="third"
-        :images="$page.show.fields"
+        :images="{image1: $page.show.image1,image2: $page.show.image2,image3: $page.show.image3,image4: $page.show.image4,image5: $page.show.image5}"
       />
     </ContentLayout>
   </PageLayout>
@@ -26,18 +20,16 @@
     show (path: $path) {
       title
       content
-      fields {
-        image1
-        image2
-        image3
-        image4
-        image5
-      }
+      image1
+      image2
+      image3
+      image4
+      image5
     }
     allShow (page: 0, order: ASC) {
       edges {
         node {
-          _id
+          id
           title
           path
         }
@@ -49,9 +41,9 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Näitused'
+    title: "Näitused"
   }
-}
+};
 </script>
 
 <style>
