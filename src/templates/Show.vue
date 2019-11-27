@@ -4,7 +4,12 @@
       <div slot="first">
         <h1>Näitused</h1>
         <h2>{{ $page.show.title }}</h2>
-        <div class="content" v-html="$page.show.content" />
+        <div class="content" v-html="splitContent[0]" />
+      </div>
+      <div slot="first_en">
+        <h1>Shows</h1>
+        <h2>{{ $page.show.title_en }}</h2>
+        <div class="content" v-html="splitContent[1]" />
       </div>
       <VLinks slot="second" :items="$page.allShow.edges.map(e => e.node)" />
       <Gallery
@@ -19,6 +24,7 @@
   query Show ($path: String!) {
     show (path: $path) {
       title
+      title_en
       content
       image1
       image2
@@ -42,6 +48,11 @@
 export default {
   metaInfo: {
     title: "Näitused"
+  },
+  computed: {
+    splitContent() {
+      return this.$page.show.content.split(/<p>--<\/p>/);
+    }
   }
 };
 </script>

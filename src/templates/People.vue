@@ -4,7 +4,10 @@
       <div slot="first">
         <h1>Inimesed</h1>
         <h2>{{ $page.people.title }}</h2>
-        <div class="content" v-html="$page.people.content" />
+        <div class="content" v-html="splitContent[0]" />
+        <h1>People</h1>
+        <h2>{{ $page.people.title }}</h2>
+        <div class="content" v-html="splitContent[1]" />
       </div>
       <VLinks slot="second" :items="$page.allPeople.edges.map(e => e.node)" />
       <Gallery
@@ -41,6 +44,11 @@
 export default {
   metaInfo: {
     title: "Inimesed"
+  },
+  computed: {
+    splitContent() {
+      return this.$page.people.content.split(/<p>--<\/p>/);
+    }
   }
 };
 </script>

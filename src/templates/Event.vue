@@ -4,7 +4,12 @@
       <div slot="first">
         <h1>Sündmused</h1>
         <h2>{{ $page.event.title }}</h2>
-        <div class="content" v-html="$page.event.content" />
+        <div class="content" v-html="splitContent[0]" />
+      </div>
+      <div slot="first_en">
+        <h1>Events</h1>
+        <h2>{{ $page.event.title_en }}</h2>
+        <div class="content" v-html="splitContent[1]" />
       </div>
       <VLinks slot="second" :items="$page.allEvent.edges.map(e => e.node)" />
       <Gallery
@@ -19,6 +24,7 @@
   query Event ($path: String!) {
     event (path: $path) {
       title
+      title_en
       content
       image1
       image2
@@ -41,6 +47,11 @@
 export default {
   metaInfo: {
     title: "Sündmused"
+  },
+  computed: {
+    splitContent() {
+      return this.$page.event.content.split(/<p>--<\/p>/);
+    }
   }
 };
 </script>
