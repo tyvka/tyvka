@@ -8,7 +8,6 @@ image3: /images/protsess3.jpg
 image4: /images/protsess4.jpg
 image5: /images/protsess5.jpg
 ---
-
 Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef K’st, kes töötab pangas soojal kohal, hindab väga oma positsiooni ja pingutab selle säilitamise nimel. Kolmekümnenda sünnipäeva hommikul esitatakse talle süüdistus ning algab protsess. Milles teda süüdistatakse? Milline on tema kuritegu?
 
 „Protsess“ on psühholoogilist, füüsilist ning nuku- ja visuaalteatrit siduv noortelavastus, mis käsitleb inimeseks olemise baasteemasid.
@@ -37,7 +36,7 @@ Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef
 
 **Esietendus** 11. novembril 2018 NUKU teatri väikeses saalis
 
---
+\--
 
 The play "The Trial" talks about an ambitious young man, Josef K, who has come from the countryside to work in a bank, appreciates his position and strives to preserve it. In the morning of his 30th birthday, he is prosecuted, and the trial begins. What is he accused of? What is his crime?
 
@@ -65,3 +64,5 @@ The play "The Trial" talks about an ambitious young man, Josef K, who has come f
 Photos by Siim Vahur
 
 **Premiere** on 11 November 2018 in the small hall of NUKU Theatre.
+
+.
