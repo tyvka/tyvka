@@ -1,32 +1,39 @@
 <template>
   <div>
-    <slot :items="[
+    <slot
+      :items="[
       {
         title: 'Lavastused',
+        title_en: 'Performances',
         path: $static.allPerformance.edges[0].node.path,
         img: '/images/front/front1.png'
       },
       {
         title: 'Kontserdid',
+        title_en: 'Music',
         path: $static.allMusic.edges[0].node.path,
         img: '/images/front/front2.png'
       },
       {
         title: 'Näitused',
+        title_en: 'Shows',
         path: $static.allShow.edges[0].node.path,
         img: '/images/front/front3.png'
       },
       {
         title: 'Inimesed',
+        title_en: 'People',
         path: $static.allPeople.edges[0].node.path,
         img: '/images/front/front4.png'
       },
       {
         title: 'Sündmused',
+        title_en: 'Events',
         path: $static.allEvent.edges[0].node.path,
         img: '/images/front/front5.png'
       },
-    ]" />
+    ]"
+    />
   </div>
 </template>
 
@@ -35,7 +42,7 @@
     allPerformance (page: $page, order: ASC) {
       edges {
         node {
-          _id
+          id
           title
           path
         }
@@ -44,7 +51,7 @@
     allMusic (page: $page, order: ASC) {
       edges {
         node {
-          _id
+          id
           title
           path
         }
@@ -53,7 +60,7 @@
     allShow (page: $page, order: ASC) {
       edges {
         node {
-          _id
+          id
           title
           path
         }
@@ -62,7 +69,7 @@
     allPeople (page: $page, order: ASC) {
       edges {
         node {
-          _id
+          id
           title
           path
         }
@@ -71,7 +78,7 @@
     allEvent (page: $page, order: ASC) {
       edges {
         node {
-          _id
+          id
           title
           path
         }
@@ -80,14 +87,3 @@
   }
 </static-query>
 
-<style>
-/*
-[
-        {img: '//media.voog.com/0000/0042/2942/photos/esimene.png', title: 'Lavastused', to: 'shows'},
-        {img: '//media.voog.com/0000/0042/2942/photos/esi_II.png', title: 'Kontserdid', to: '/music.html'},
-        {img: '//media.voog.com/0000/0042/2942/photos/esi_III.png',title: 'Näitused', to: '/showing.html'},
-        {img: '//media.voog.com/0000/0042/2942/photos/esi_IV.png', title: 'Inimesed', to: '/people.html'},
-        {img: '//media.voog.com/0000/0042/2942/photos/esimene.png', title: 'Sündmused', to: '/other.html'}
-      ]
-      */
-</style>

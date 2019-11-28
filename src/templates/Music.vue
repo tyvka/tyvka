@@ -4,18 +4,23 @@
       <div slot="first">
         <h1>Kontserdid</h1>
         <h2>{{ $page.music.title }}</h2>
-        <div
-          class="content"
-          v-html="$page.music.content"
-        />
+        <div class="content" v-html="splitContent[0]" />
       </div>
-      <VLinks
-        slot="second"
-        :items="$page.allMusic.edges.map(e => e.node)"
-      />
+      <div slot="first_en">
+        <h1>Music</h1>
+        <h2>{{ $page.music.title_en }}</h2>
+        <div class="content" v-html="splitContent[1]" />
+      </div>
+      <VLinks slot="second" :items="$page.allMusic.edges.map(e => e.node)" />
       <Gallery
         slot="third"
-        :images="$page.music.fields"
+        :images="{
+          image1: $page.music.image1,
+          image2: $page.music.image2,
+          image3: $page.music.image3,
+          image4: $page.music.image4,
+          image5: $page.music.image5
+        }"
       />
     </ContentLayout>
   </PageLayout>
@@ -25,19 +30,19 @@
   query Music ($path: String!) {
     music (path: $path) {
       title
+      title_en
       content
-      fields {
-        image1
-        image2
-        image3
-        image4
-        image5
-      }
+      image1
+      image2
+      image3
+      image4
+      image5
     }
     allMusic (page: 0, order: ASC) {
       edges {
         node {
           title
+          title_en
           path
         }
       }
@@ -48,9 +53,14 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Kontserdid'
+    title: "Kontserdid"
+  },
+  computed: {
+    splitContent() {
+      return this.$page.music.content.split(/<p>--<\/p>/);
+    }
   }
-}
+};
 </script>
 
 <style>

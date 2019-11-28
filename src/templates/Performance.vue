@@ -4,18 +4,17 @@
       <div slot="first">
         <h1>Lavastused</h1>
         <h2>{{ $page.performance.title }}</h2>
-        <div
-          class="content"
-          v-html="$page.performance.content"
-        />
+        <div class="content" v-html="splitContent[0]" />
       </div>
-      <VLinks
-        slot="second"
-        :items="$page.allPerformance.edges.map(e => e.node)"
-      />
+      <div slot="first_en">
+        <h1>Performances</h1>
+        <h2>{{ $page.performance.title_en }}</h2>
+        <div class="content" v-html="splitContent[1]" />
+      </div>
+      <VLinks slot="second" :items="$page.allPerformance.edges.map(e => e.node)" />
       <Gallery
         slot="third"
-        :images="$page.performance.fields"
+        :images="{image1: $page.performance.image1,image2: $page.performance.image2,image3: $page.performance.image3,image4: $page.performance.image4,image5: $page.performance.image5}"
       />
     </ContentLayout>
   </PageLayout>
@@ -25,19 +24,19 @@
   query Performance ($path: String!) {
     performance (path: $path) {
       title
+      title_en
       content
-      fields {
-        image1
-        image2
-        image3
-        image4
-        image5
-      }
+      image1
+      image2
+      image3
+      image4
+      image5
     }
     allPerformance (page: 0, order: ASC) {
       edges {
         node {
           title
+          title_en
           path
         }
       }
@@ -48,9 +47,14 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Lavastused'
+    title: "Lavastused"
+  },
+  computed: {
+    splitContent() {
+      return this.$page.performance.content.split(/<p>--<\/p>/);
+    }
   }
-}
+};
 </script>
 
 <style>
