@@ -1,26 +1,24 @@
 <template>
   <div class="FrontMenu">
-    <h3
-      v-for="(item,i) in items"
-      :key="i"
-      style="flex: 1; margin: 0;"
-    >
+    <h3 v-for="(item, i) in items" :key="i" style="flex: 1; margin: 0;">
       <g-link
         class="card"
         :style="{
-        background: 'url(' + item.img + ')',
-        backgroundSize: 'cover',
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        cursor: 'pointer',
-        color: 'white',
-        fontSize: '1.2rem',
-        fontWeight: 500
-      }"
+          background: 'url(' + item.img + ')',
+          backgroundSize: 'cover',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          cursor: 'pointer',
+          color: 'white',
+          fontSize: '1.2rem',
+          fontWeight: 500
+        }"
         :to="item.path"
-      >
-        / {{ item.title }} /
+        ><div>
+          <div>{{ item.title }}</div>
+          <div style="opacity: 0.5; margin-top: 7px;">{{ item.title_en }}</div>
+        </div>
       </g-link>
     </h3>
   </div>

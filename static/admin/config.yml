@@ -10,7 +10,7 @@ slug:
   encoding: "ascii"
   clean_accents: true
   sanitize_replacement: "_"
-  
+
 collections:
   - name: "performance"
     label: "Lavastused"
@@ -19,6 +19,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "title", name: "title", widget: "string" }
+      - { label: "title_en", name: "title_en", widget: "string" }
       - { label: "slug", name: "slug", widget: "string" }
       - { label: "body", name: "body", widget: "markdown" }
       - { label: "image1", name: "image1", widget: "image", required: false }
@@ -33,6 +34,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "title", name: "title", widget: "string" }
+      - { label: "title_en", name: "title", widget: "string" }
       - { label: "slug", name: "slug", widget: "string" }
       - { label: "body", name: "body", widget: "markdown" }
       - { label: "image1", name: "image1", widget: "image", required: false }
@@ -47,6 +49,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "title", name: "title", widget: "string" }
+      - { label: "title_en", name: "title", widget: "string" }
       - { label: "slug", name: "slug", widget: "string" }
       - { label: "body", name: "body", widget: "markdown" }
       - { label: "image1", name: "image1", widget: "image", required: false }
@@ -75,6 +78,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "title", name: "title", widget: "string" }
+      - { label: "title_en", name: "title", widget: "string" }
       - { label: "slug", name: "slug", widget: "string" }
       - { label: "body", name: "body", widget: "markdown" }
       - { label: "image1", name: "image1", widget: "image", required: false }
@@ -82,4 +86,3 @@ collections:
       - { label: "image3", name: "image3", widget: "image", required: false }
       - { label: "image4", name: "image4", widget: "image", required: false }
       - { label: "image5", name: "image5", widget: "image", required: false }
-  
