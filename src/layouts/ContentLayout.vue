@@ -27,6 +27,10 @@
 .first_en {
   width: 200px;
   padding-right: 10px;
+  opacity: 0.7;
+}
+.first_en:hover {
+  opacity: 1;
 }
 .second {
   margin-left: 25px;

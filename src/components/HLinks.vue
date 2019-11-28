@@ -1,17 +1,14 @@
 <template>
   <Links>
-    <div
-      slot-scope="{items}"
-      class="HLinks"
-    >
+    <div slot-scope="{items}" class="HLinks">
       <h4>
-       <g-link
-        v-for="(item,i) in items"
-        :key="i"
-        :to="item.path"
-      >
-        {{ i !== 0 ? '/' : '' }} {{ item.title }}
-      </g-link>
+        <g-link v-for="(item,i) in items" :key="i" :to="item.path">
+          <div>
+            {{ item.title }}
+            <br />
+            <div style="opacity: 0.5">{{item.title_en }}</div>
+          </div>
+        </g-link>
       </h4>
     </div>
   </Links>
@@ -27,5 +24,14 @@
   .HLinks {
     display: block;
   }
+}
+.HLinks > h4 {
+  display: flex;
+}
+.HLinks > h4 > * {
+  margin-left: 15px;
+}
+.HLinks > h4 > *:first-child {
+  margin-left: 0;
 }
 </style>
