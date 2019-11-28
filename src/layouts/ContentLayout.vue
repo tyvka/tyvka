@@ -45,6 +45,7 @@
     padding: 0 2rem;
   }
   .first,
+  .first_en,
   .second,
   .third {
     width: 100%;
@@ -52,4 +53,3 @@
   }
 }
 </style>
-
