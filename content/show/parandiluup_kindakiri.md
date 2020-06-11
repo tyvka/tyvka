@@ -1,10 +1,10 @@
 ---
 title: ' Pärandiluup: kindakiri'
 slug: pärandiluup
-image1: /images/kindakiri_eve_foto_sandra_urvak_loige.jpg
-image2: /images/kindakiri_kristi_joeste_3_f_eva-maria_komissarov.jpg
-image3: /images/kindakiri_kristi_joeste_f_eva-maria_komissarov.jpg
-image4: /images/kindakiri_maren_suurna_foto_enelin_pedak_loige.jpg
+image1: /images/kindakiri_eve_foto_sandra_urvak_loige_800.jpg
+image2: /images/kindakiri_kristi_joeste_3_f_eva-maria_komissarov_800x536.jpg
+image3: /images/kindakiri_kristi_joeste_f_eva-maria_komissarov_800x626.jpg
+image4: /images/kindakiri_maren_suurna_foto_enelin_pedak_loige_800x463.jpg
 ---
 Kindad soojendavad meie käsi, aga vanasti kanti neid ka pulmades ja teistel tähtsatel puhkudel rituaalesemetena. Enamus kindaid kooti kahevärvilise kirjamise tehnikas, samas tunti ka teisi töövõtteid, nagu näiteks roosimine, vikeldamine ja tikkimine. Ilukindaid kaunistati geomeetriliste kirjadega ja põhiliselt oli mustrite otstarbeks kaitse või õnne taotlemine.
 
