@@ -27,13 +27,15 @@ Jaak Kikase näitus „Studia Botanica“
 
 Kersti Rattuse näitus „Katsetused“ 
 
-Tudengitööde näitus „Kirivöö“ '
+Tudengitööde näitus „Kirivöö“ 
 
 \--
 
 The gallery opened in September 2017 along with the Centre for Arts at the Old Anatomical Theatre in Tartu. It exhibits a selection of creative work by the academic staff, students and alumni of the University of Tartu who are also professional artists, designers and artisans. The gallery also serves a as a mean to introduce the creative work done by the students at the Centre for Arts courses. Exhibitions change every few months.
 
 Photos by Veiko Klemmer
+
+Last exhibitions:
 
 **2020** 
 
