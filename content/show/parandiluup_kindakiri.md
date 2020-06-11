@@ -12,7 +12,7 @@ Käsitööpärand on osa meist, meie identiteedist, eneseteadvusest, koha- ja ru
 
 Näituse fotodel on kujutatud rahvusliku tekstiili eriala õppetöös valminud esemeid.
 
-
+Fotod Sandra Urvak, Enelin Pedak, Eva-Maria Komissarov
 
 \--
 
@@ -21,3 +21,5 @@ Gloves warm our hands, but in the old days they were also worn as ritual objects
 Handicraft heritage is a part of us, of our identity, self-awareness, perception of place and space, of our everyday environment. Heritage is a living thing – it develops with us and finds more and more new forms and outlets.
 
 The photographs of the exhibition show objects made by the students of native textile speciality.
+
+Photos by Sandra Urvak, Enelin Pedak, Eva-Maria Komissarov
