@@ -1,5 +1,5 @@
 ---
-title: Vabade kunstide professuur ja professuuri üleandmine
+title: 'Vabade kunstide professuur '
 slug: vabadekunstideprofessuur
 image1: >-
   /images/professuuri_vahetus_mai_2018_laurits_raag._foto_andres_tennus_800px.jpg
