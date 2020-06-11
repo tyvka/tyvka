@@ -10,6 +10,8 @@ OmaMood on iga-aastane etnosugemetega moeetendus, mida koostöös TÜ Viljandi k
 
 OmaMood toimus 11. juunil 2020 veebiülekandena Rahvusarhiivist.
 
+Fotod: Sadu-Triste Juurikas.
+
 \--
 
 OmaMood (OwnFashion) is an annual fashion show with ethnic influences, organised by Eesti Moe Festival (Estonian Fashion Festival) in cooperation with UT Viljandi Culture Academy. The aim of the show is to present the elements of traditional handicraft in a modern way.
@@ -17,3 +19,5 @@ OmaMood (OwnFashion) is an annual fashion show with ethnic influences, organised
 The collections are mostly comprised of the final theses of native textile students of UT Viljandi Culture Academy. As a unique folk art performance, it simultaneously combines design, dance performance and concert experiences, with a special choreography, sound and visual design. OmaMood is a party for craftsmen communities of all localities, where you can gather and draw ideas.
 
 OmaMood was held on 11 June 2020.
+
+Photos by Sadu-Triste Juurikas.
