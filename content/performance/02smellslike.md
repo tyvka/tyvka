@@ -1,6 +1,6 @@
 ---
 title: Limewire* (v.3.0)
-title_en: Limewir
+title_en: xxx
 slug: limewire
 image1: /images/smells1.jpg
 image2: /images/smells2.jpg
