@@ -5,6 +5,7 @@ image1: /images/omamood_2019_1.jpg
 image2: ''
 image3: /images/omamood_2019_3.jpg
 image4: /images/omamood_2019_4.jpg
+image5: /images/48021954447_60f4954be2_c.jpg
 ---
 OmaMood on iga-aastane etnosugemetega moeetendus, mida koostöös TÜ Viljandi kultuuriakadeemiaga korraldab Eesti Moe Festival (Estonian Fashion Festival). _Show_ eesmärgiks on tuua osalejani klassikalise käsitöö elemendid modernses võtmes. Enamasti esitletakse kultuuriakadeemia rahvusliku tekstiili eriala lõputöödest koosnevaid kollektsioone. Ainulaadse rahvakunsti etendusena annab see ühekorraga nii disaini-, tantsulavastuse- kui ka kontserdielamuse, sest selle jaoks on loodud spetsiaalne koreograafia, heliline ja visuaalne kujundus. OmaMood on kõikide paikkondade käsitööliste kogukondadele mõeldud pidu, kus on võimalik kokku saada ja ideid ammutada.
 
