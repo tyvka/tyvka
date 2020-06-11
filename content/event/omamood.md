@@ -2,7 +2,7 @@
 title: OmaMood
 slug: omamood
 image1: /images/omamood_2019_1.jpg
-image2: /images/omamood_2019_2.jpg
+image2: ''
 image3: /images/omamood_2019_3.jpg
 image4: /images/omamood_2019_4.jpg
 ---
