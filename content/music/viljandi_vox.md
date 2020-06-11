@@ -7,15 +7,15 @@ Viljandi Vox on vokaalansambel, mis toob kokku viis head Viljandi kultuuriakadee
 
 Laura Tiit – sopran
 
-
-\
 Sandra Eowyn Karu – alt
-\
+
 Ingrid Rabi – alt
-\
+
 Carlos Liiv – tenor
-\
+
 Mattias Simson – bass
+
+
 
 Kuula Viljandi Voxi [SIIT](https://www.youtube.com/watch?v=4OheUod5in4).
 
@@ -25,15 +25,17 @@ Foto Martin Kosseson
 
 Viljandi Vox is a vocal ensemble that brings together five good friends studying at the Viljandi Culture Academy. Fresh, moving and mellow – Viljandi Vox performs songs of domestic and foreign origin arranged by themselves. For joy. May it flourish! 
 
-Laura Tiit – soprano
-\
-Sandra Eowyn Karu - alto
-\
-Ingrid Rabi - alto
-\
-Carlos Liiv - tenor
-\
-Mattias Simson - bass
+Laura Tiit – sopran
+
+Sandra Eowyn Karu – alt
+
+Ingrid Rabi – alt
+
+Carlos Liiv – tenor
+
+Mattias Simson – bass
+
+
 
 Listen Viljandi Vox [HERE](https://www.youtube.com/watch?v=4OheUod5in4).
 
