@@ -6,6 +6,8 @@ image1: /images/viljandivox_1000px.jpg
 Viljandi Vox on vokaalansambel, mis toob kokku viis head Viljandi kultuuriakadeemias õppivat sõpra. Värske, liigutav ja muhe – jagame me endi seatud kodu- ja välismaiseid laule. Rõõmu pärast. Et seda ikka jaguks! 
 
 Laura Tiit – sopran
+
+
 \
 Sandra Eowyn Karu – alt
 \
