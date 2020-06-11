@@ -14,6 +14,8 @@ Käsitööpärand on osa meist, meie identiteedist, eneseteadvusest, koha- ja ru
 
 Näituse fotodel on kujutatud rahvuslik metallitöö erialal valminud esemeid.
 
+Fotod Sandra Urvak ja Ruth Niitvägi
+
 \--
 
 Twisting, when used in blacksmithing and jewelry making, is the screwing of round or square material around its longitudinal axis. Twisting has been used in our region since ancient times, both as a decoration technique and for achieving strengthening properties of the material. This technique is especially common in spiral rings and bracelets, although traditionally foreshafts of throwing spears have also been twisted.
@@ -21,3 +23,5 @@ Twisting, when used in blacksmithing and jewelry making, is the screwing of roun
 Handicraft heritage is a part of us, of our identity, self-awareness, perception of place and space, of our everyday environment. Heritage is a living thing – it develops with us and finds more and more new forms and outlets.
 
 The photographs of the exhibition show objects made by the students of native metalwork speciality.
+
+Photos by Sandra Urvak ja Ruth Niitvägi
