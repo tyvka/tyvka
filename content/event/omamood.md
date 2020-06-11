@@ -1,5 +1,5 @@
 ---
-title: OmaMood
+title: OmaMood2
 slug: omamood
 image1: /images/omamood_2019_1.jpg
 image2: ''
