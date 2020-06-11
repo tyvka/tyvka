@@ -1,14 +1,14 @@
 ---
-
 title: Limewire* (v.3.0)
-title_en: Limewire* (v.3.0)
+title_en: Limewire* (v.3.0) test
 slug: limewire
 image1: /images/smells1.jpg
 image2: /images/smells2.jpg
 image3: /images/smells3.jpg
 image4: /images/smells4.jpg
 image5: /images/smells5.jpg
----Rahvusvaheline etenduskunstide festival Baltoscandal kutsus 2016. aastal Andros Zins-Browne’i taaslavastama tema Limewire-teose järjekordset versiooni Tartu Ülikooli Viljandi kultuuriakadeemia tantsu- ja teatritudengitele. Pärast mitmekuulist prooviperioodi esietenduski Baltoscandalil "Limewire\* (v.3.0)".
+---
+Rahvusvaheline etenduskunstide festival Baltoscandal kutsus 2016. aastal Andros Zins-Browne’i taaslavastama tema Limewire-teose järjekordset versiooni Tartu Ülikooli Viljandi kultuuriakadeemia tantsu- ja teatritudengitele. Pärast mitmekuulist prooviperioodi esietenduski Baltoscandalil "Limewire\* (v.3.0)".
 
 Koreograaf Andros Zins-Browne:
 
