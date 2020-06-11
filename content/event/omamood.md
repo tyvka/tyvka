@@ -1,5 +1,5 @@
 ---
-title: OmaMood2
+title: own fashion
 slug: omamood
 image1: /images/omamood_2019_1.jpg
 image2: ''
