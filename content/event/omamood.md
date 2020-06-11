@@ -10,7 +10,7 @@ OmaMood on iga-aastane etnosugemetega moeetendus, mida koostöös TÜ Viljandi k
 
 OmaMood toimus 11. juunil 2020 veebiülekandena Rahvusarhiivist.
 
-Fotod: Sadu-Triste Juurikas.
+Fotod Sadu-Triste Juurikas
 
 \--
 
@@ -20,4 +20,4 @@ The collections are mostly comprised of the final theses of native textile stude
 
 OmaMood was held on 11 June 2020.
 
-Photos by Sadu-Triste Juurikas.
+Photos by Sadu-Triste Juurikas
