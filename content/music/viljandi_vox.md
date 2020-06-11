@@ -35,4 +35,4 @@ Mattias Simson - bass
 
 Listen Viljandi Vox [HERE](https://www.youtube.com/watch?v=4OheUod5in4).
 
-Foto by Martin Kosseson
+Photo by Martin Kosseson
