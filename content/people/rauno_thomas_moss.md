@@ -7,8 +7,12 @@ image1: /images/rauno_portree_3_foto_veiko_klemmer_800px.jpg
 
 _„Meie teadmist tugevdab ja laiendab see, mida meile ja meis endis ilmutavad kunstid: nad laiendavad meie inimkogemust ja teadlikkust ning muudavad meid inimlikumaks. Selleks, et kunstnik oleks võimeline afekte kontrollima, peab ta teadvustama ja tundma afekte esile kutsuvate elementide (märkide) toimet inimteadvusele."_
 
+Foto Veiko Klemmer
+
 \--
 
 **Rauno Thomas Moss** is a lecturer (assistant of fine arts) at the Centre for Arts. Graduated from the University of Tartu, Department of Arts (2002) and defended his master's degree in semiotics and culturology (2008). Teaches plastic anatomy, composition theory, drawing and modeling, etc. at the University of Tartu since 2002. Currently focused on performing medical illustrations. The professions of commercial artist and graphic designer have been left behind. Member of the Estonian Semiotics Association, the Estonian Artists Association, the Estonian Painters Association, and the Tartu Artists Union. 
 
 _„Our knowledge is strengthened and expanded by what the arts reveal to us and in ourselves: they expand our human experience and awareness and make us more human. For an artist to be able to control affects, he has to acknowledge and understand the influence of the elements (signs) that evoke affects on the human consciousness."_
+
+Photo by Veiko Klemmer
