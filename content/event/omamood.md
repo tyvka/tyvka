@@ -13,7 +13,7 @@ Enamasti esitletakse kultuuriakadeemia rahvusliku tekstiili eriala lõputöödes
 
 Moeetenduse OmaMood korraldusmeeskonna liikmeteks on kultuurikorralduse õppekava vilistlased ja tudengid.
 
-OmaMood toimus 11. juunil 2020 [veebiülekandena ](https://www.youtube.com/watch?v=tGCDvcLX8HM&feature=youtu.be&fbclid=IwAR0eG2fdjArrJA6QJW_yZjbIsaojYSEdxDImiS33qAuKNTTAwEFdvZeIgcY)Rahvusarhiivist.
+OmaMood toimus 11. juunil 2020 veebiülekandena Rahvusarhiivist. Vaata ülekannet [SIIN](https://www.youtube.com/watch?v=tGCDvcLX8HM&feature=youtu.be&fbclid=IwAR0eG2fdjArrJA6QJW_yZjbIsaojYSEdxDImiS33qAuKNTTAwEFdvZeIgcY).
 
 Fotod Sadu-Triste Juurikas
 
