@@ -1,11 +1,11 @@
 ---
 title: Cätlin Mägi
 slug: catlin-magi
-image1: /images/ca_tlin.jpg
-image2: ""
-image3: ""
-image4: ""
-image5: ""
+image1: /images/ca_tlin2.jpg
+image2: ''
+image3: ''
+image4: ''
+image5: ''
 ---
 
 Cätlin Mägi on vilistlane ja õppejõud muusikaosakonnas.
