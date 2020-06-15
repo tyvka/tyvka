@@ -9,9 +9,9 @@ image5: ''
 ---
 Tudengite Teatripäevad on iga-aastane ülikoolide ja rakenduskõrgkoolide harrastusteatrite ning üleüldiselt tudengite teatraalsete ja loominguliste truppide festival. Lisaks etendustele ja aruteludele toimuvad ka erinevad õpitoad.
 
-Järjekorras juba 18. Tudengite Teatripäevad toimusid 14.-16. veebruaril 2020 Viljandis. Esinesid T-Teater, Ruutu10, Lost D.
+Järjekorras juba 18. Tudengite Teatripäevad toimusid 14.-16. veebruaril 2020 Viljandis. Esinesid T-Teater, Ruutu10, Lost D. Lisaks tulid külla Kinetic Theatre Troupe Leedust ja Kellariteatteri noored Helsingist.
 
-Lisaks tulid külla Kinetic Theatre Troupe Leedust ja Kellariteatteri noored Helsingist.
+Tudengite Teatripäevasid korraldavad kultuurikorralduse õppekava tudengid.
 
 Fotod Triin Tiimann
 
@@ -19,8 +19,8 @@ Fotod Triin Tiimann
 
 Student Theatre Days is an annual festival for amateur theatres at universities and colleges and, more generally, for theatrical and creative troupes of students. In addition to performances and discussions, there are also various workshops.
 
-Already the 18th Student Theatre Days took place from 14 to 16 February 2020 in Viljandi. Performers: T-Teater, Ruutu10, Lost D.
+Already the 18th Student Theatre Days took place from 14 to 16 February 2020 in Viljandi. Performers: T-Teater, Ruutu10, Lost D. We had pleasure to host Kinetic Theatre Troupe from Lithuania and Helsingin Kellariteatteri from Finaland.
 
-We were also had the pleasure to host Kinetic Theatre Troupe from Lithuania and Helsingin Kellariteatteri from Finaland.
+The members of the Student Theatre Days management team are  students of the cultural management speciality.
 
 Photos by Triin Tiimann
