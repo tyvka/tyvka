@@ -1,11 +1,11 @@
 ---
 title: Kristi Jõeste
 slug: kristi-joeste
-image1: /images/aastal2012bw.jpg
-image2: ""
-image3: ""
-image4: ""
-image5: ""
+image1: /images/aastal2012bw2.jpg
+image2: ''
+image3: ''
+image4: ''
+image5: ''
 ---
 
 Kristi Jõeste on kultuuriakadeemia vilistlane, lektor ja programmijuht rahvusliku käsitöö osakonnas.
