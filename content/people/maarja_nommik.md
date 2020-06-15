@@ -1,7 +1,7 @@
 ---
 title: Maarja Nõmmik
 slug: maarjanõmmik
-image1: ''
+image1: /images/maarja_nommik_autor_urmas_nommik_2_800.jpg
 ---
 **Maarja Nõmmik** on Tartu Ülikooli Viljandi kultuuriakadeemia kunstide keskuse õppejõud ja õppekorralduse spetsialist. Nõmmik on lõpetanud magistriõppe maalikunsti erialal Tartu Ülikoolis (2016) ning täiendanud end õpingute ajal Poolas Strzeminski Kunstiakadeemias. Kunstide keskuses on ta õpetanud alates 2018. aastast. Lisaks tegutseb Nõmmik maalikunstniku ja illustraatorina ning on Eesti Maalikunstnike Liidu ja Tartu Kunstnike Liidu liige. 
 
