@@ -1,11 +1,11 @@
 ---
-title: "Eve Komissarov "
+title: 'Eve Komissarov '
 slug: eve-komissarov
-image1: /images/eve-komissarov_web.jpg
-image2: ""
-image3: ""
-image4: ""
-image5: ""
+image1: /images/eve-komissarov_web2.jpg
+image2: ''
+image3: ''
+image4: ''
+image5: ''
 ---
 
 Eve Komissarov on vilistlane, õppejõud ja programmijuht etenduskunstide osakonnas.
