@@ -25,6 +25,6 @@ The collections are mostly comprised of the final theses of native textile stude
 
 The members of the OmaMood fashion show management team are alumni and students of the cultural management speciality.
 
-OmaMood was held on 11 June 2020.
+OmaMood was held on 11 June 2020 by webcast. Watch the video [HERE](https://www.youtube.com/watch?v=tGCDvcLX8HM&feature=youtu.be&fbclid=IwAR0eG2fdjArrJA6QJW_yZjbIsaojYSEdxDImiS33qAuKNTTAwEFdvZeIgcY).
 
 Photos by Sadu-Triste Juurikas
