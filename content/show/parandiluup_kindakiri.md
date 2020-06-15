@@ -20,6 +20,6 @@ Gloves warm our hands, but in the old days they were also worn as ritual objects
 
 Handicraft heritage is a part of us, of our identity, self-awareness, perception of place and space, of our everyday environment. Heritage is a living thing – it develops with us and finds more and more new forms and outlets.
 
-The photographs of the exhibition show objects made by the native textile speciality students Eve Varik and Maren Suurna and by the native textile lecturer Kristi Jõeste, 
+The photographs of the exhibition show objects made by the native textile speciality students Eve Varik and Maren Suurna and the native textile lecturer Kristi Jõeste, 
 
 Photos by Sandra Urvak, Enelin Pedak, Eva-Maria Komissarov
