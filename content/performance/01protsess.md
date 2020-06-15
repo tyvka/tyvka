@@ -30,6 +30,8 @@ Lavastus "Protsess" räägib maalt linna tulnud ambitsioonikast noormehest Josef
 
 **Videokujundajad** TÜ VKA tudengid Taavet Janseni juhendamisel
 
+**Turundus ja kommunikatsioon** kultuurikorralduse IV aasta tudeng Katariina Õunpuu
+
 **Laval** Liivika Hanstin ning teatrikunsti 12. lennu üliõpilased Stefan Hein, Karolin Jürise, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter ja Mari Anton.
 
 **Fotod** Siim Vahur
@@ -59,6 +61,8 @@ The play "The Trial" talks about an ambitious young man, Josef K, who has come f
 **Light Designers** Students of UT Viljandi Culture Academy under the supervision of Mari-Riin Paavo
 
 **Video Designers** Students of UT Viljandi Culture Academy under the supervision of Taavet Jansen
+
+**Marketing and communikation** Katariina Õunpuu, the student of cultural management speciality
 
 **On stage** Liivika Hanstin and the class of 2019 of theatrical studies: Stefan Hein, Karolin Jüris, Loviise Kapper, Elena Koit, Grete Konksi, Mathias-Einari Leedo, Silva Pijon, Kristjan Poom, Henessi Schmidt, Maarja Tammemägi, Hans Kristian Õis, Elar Vahter and Mari Anton.
 Photos by Siim Vahur
