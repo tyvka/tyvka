@@ -21,6 +21,6 @@ Student Theatre Days is an annual festival for amateur theatres at universities 
 
 Already the 18th Student Theatre Days took place from 14 to 16 February 2020 in Viljandi. Performers: T-Teater, Ruutu10, Lost D. We had pleasure to host Kinetic Theatre Troupe from Lithuania and Helsingin Kellariteatteri from Finaland.
 
-The members of the Student Theatre Days management team are  students of the cultural management speciality.
+Student Theatre Days are organized by students of the cultural management speciality.
 
 Photos by Triin Tiimann
