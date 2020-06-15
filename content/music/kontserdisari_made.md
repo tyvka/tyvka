@@ -7,7 +7,7 @@ image3: /images/49193835678_3f7d793f6e_c.jpg
 image4: /images/49193841673_dc4db4b616_c.jpg
 image5: /images/49194540437_e1aaec691b_c.jpg
 ---
-MADE No. on kontserdisari, mis sai alguse 2017. aastal eesmärgiga tutvustada laiemale avalikkusele meie rütmi- ja pärimusmuusika eriala tudengite erinevaid ansambleid. Kontseptsioon on lihtne — 5 nädalat järjest tehakse õppejõu juhendamisel tihedat tööd, millele järgneb kontsert. Kokku hooaja jooksul antakse 4 kontserti Viljandi linna erinevates saalides. 
+MADE No. on kontserdisari, mis sai alguse 2017. aastal eesmärgiga tutvustada laiemale avalikkusele meie rütmi- ja pärimusmuusika eriala tudengite erinevaid ansambleid. Kontseptsioon on lihtne — 5 nädalat järjest tehakse õppejõu juhendamisel tihedat tööd, millele järgneb kontsert. Hooaja jooksul antakse kokku 4 kontserti Viljandi linna erinevates saalides. 
 
 Aastal 2042 plaanime teha piduliku kontserdi MADE No. 100!
 
