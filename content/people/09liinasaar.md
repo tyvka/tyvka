@@ -1,11 +1,11 @@
 ---
 title: Liina Saar
 slug: liina-saar
-image1: /images/liina.jpg
-image2: ""
-image3: ""
-image4: ""
-image5: ""
+image1: /images/liina2.jpg
+image2: ''
+image3: ''
+image4: ''
+image5: ''
 ---
 
 Liina Saar on muusikaosakonna lektor.
