@@ -12,7 +12,7 @@ Tordeerimine on sepa- ja ehtetöös kasutatav ümar- või kantmaterjali vintikee
 
 Käsitööpärand on osa meist, meie identiteedist, eneseteadvusest, koha- ja ruumitajust, igapäevasest keskkonnast. Pärand on elus asi – areneb meiega koos ja leiab üha uusi vorme ja väljundeid. 
 
-Näituse fotodel on kujutatud rahvuslik metallitöö erialal valminud esemeid.
+Näituse fotodel on kujutatud rahvuslik metallitöö eriala vilistlase Siim Otsa valmistatud pinki ja õppejõudud Väino Niitvägi valmistatud sõlge.
 
 Fotod Sandra Urvak ja Ruth Niitvägi
 
@@ -22,6 +22,6 @@ Twisting, when used in blacksmithing and jewelry making, is the screwing of roun
 
 Handicraft heritage is a part of us, of our identity, self-awareness, perception of place and space, of our everyday environment. Heritage is a living thing – it develops with us and finds more and more new forms and outlets.
 
-The photographs of the exhibition show objects made by the students of native metalwork speciality.
+The photographs of the exhibition show objects made by the native metalwork student Siim Ots and lecturer Väino Niitvägi. 
 
 Photos by Sandra Urvak ja Ruth Niitvägi
