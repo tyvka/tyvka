@@ -1,11 +1,11 @@
 ---
 title: Ruslan Stepanov
 slug: ruslan-stepanov
-image1: /images/ruslan-web.png
-image2: ""
-image3: ""
-image4: ""
-image5: ""
+image1: /images/ruslan-web3.png
+image2: ''
+image3: ''
+image4: ''
+image5: ''
 ---
 
 Ruslan Stepanov on kultuuriakadeemia vilistlane ja etenduskunstide osakonna õppejõud.
