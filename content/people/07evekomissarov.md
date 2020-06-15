@@ -1,7 +1,7 @@
 ---
 title: 'Eve Komissarov '
 slug: eve-komissarov
-image1: /images/eve-komissarov_web2.jpg
+image1: /images/eve-komissarov_web.jpg
 image2: ''
 image3: ''
 image4: ''
