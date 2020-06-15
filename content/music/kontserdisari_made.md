@@ -13,6 +13,8 @@ Aastal 2042 plaanime teha piduliku kontserdi MADE No. 100!
 
 MADE No. kontserdeid korraldavad kultuurikorralduse õppekava tudengid.
 
+Vaata ülekandeid [SIIN](https://www.uttv.ee/otsing#sona=MADE%20No).
+
 Fotod Mailiis Laur
 
 \--
@@ -22,5 +24,7 @@ MADE No. is a concert series that started in 2017 with the aim of introducing va
 In the year 2042 we are planning to hold a gala concert MADE No. 100!
 
 MADE No. concerts are organized by students of the cultural management speciality.
+
+Watch the videos [HERE](https://www.uttv.ee/otsing#sona=MADE%20No).
 
 Photos by Mailiis Laur
