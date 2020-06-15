@@ -1,12 +1,11 @@
 ---
 title: Tudengite Teatripäevad
-title_en: Student Theatre Days
 slug: tudengiteteatripaevad
-image1: /images/mg_9587.jpg
-image2: /images/mg_0333.jpg
-image3: /images/mg_9077.jpg
+image1: /images/49612463898_05853f397d_c.jpg
+image2: /images/49612980521_1e81e89957_c.jpg
+image3: /images/49612980101_e0058a3614_c.jpg
 image4: /images/mg_0470.jpg
-image5: ""
+image5: ''
 ---
 
 Tudengite Teatripäevad on iga-aastane ülikoolide ja rakenduskõrgkoolide harrastusteatrite ning üleüldiselt tudengite teatraalsete ja loominguliste truppide festival. Lisaks etendustele ja aruteludele toimuvad ka erinevad õpitoad.
