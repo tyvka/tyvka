@@ -11,7 +11,7 @@ MADE No. on kontserdisari, mis sai alguse 2017. aastal eesmärgiga tutvustada la
 
 Aastal 2042 plaanime teha piduliku kontserdi MADE No. 100!
 
-MADE No. kontserdeid korraldavad  kultuurikorralduse õppekava tudengid.
+MADE No. kontserdeid korraldavad kultuurikorralduse õppekava tudengid.
 
 Fotod Mailiis Laur
 
@@ -21,6 +21,6 @@ MADE No. is a concert series that started in 2017 with the aim of introducing va
 
 In the year 2042 we are planning to hold a gala concert MADE No. 100!
 
-MADE No. concerts are organized by students of the cultural management speciality.
+MADE No. concerts are organized by students of the cultural management speciality.
 
 Photos by Mailiis Laur
