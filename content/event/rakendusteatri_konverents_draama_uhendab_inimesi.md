@@ -5,6 +5,7 @@ image1: /images/allan_owens_1_.jpg
 image2: /images/auli_auvaart_1_.jpg
 image3: /images/david_martinez_sanchez_1_.jpg
 image4: /images/improtootuba_1_.jpg
+image5: /images/draamatudengid2_1_.jpg
 ---
 Rahvusvaheline rakendusteatri konverents „Draama ühendab inimesi“ toimub alates 2010. aastast ja toob kokku kunstimeetodeid rakendavaid praktikuid etenduskunstide valdkonnast. 
 
