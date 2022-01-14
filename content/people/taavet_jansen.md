@@ -1,5 +1,5 @@
 ---
-title: taavet jansen
+title: Taavet Jansen
 slug: taavet_jansen
 image1: /images/taavet-web.jpg
 ---
